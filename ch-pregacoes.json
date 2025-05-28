@@ -1,0 +1,44 @@
+{
+    "pregacoes": [
+        {
+            "serie": "Humildade Encarnada",
+            "titulo": "A Humilde Decisão de Jesus ao Vir ao Mundo",
+            "episodio": 1,
+            "textoBase": "Lucas 2:6-10",
+            "data": "2025-05-18",
+            "pregador": "Jader Bittencour",
+            "linkYouTube": "https://www.youtube.com/watch?v=ZuON9dGd_8Y",
+            "linkSpotify": "https://open.spotify.com/episode/0teA265gGqtYIGRKvEx6kT"
+        },
+        {
+            "serie": "Humildade Encarnada",
+            "titulo": "A Humilde Identificação de Jesus com os Pecadores",
+            "episodio": 2,
+            "textoBase": "Marcos 1:1-11",
+            "data": "2025-05-25",
+            "pregador": "Jader Bittencour",
+            "linkYouTube": "https://www.youtube.com/watch?v=KcsZzMuZju0",
+            "linkSpotify": "https://open.spotify.com/episode/08j6meLjNNHqEh4xOg8T3o"
+        },
+        {
+            "serie": "Humildade Encarnada",
+            "titulo": "A Humilde Obediência de Jesus à Palavra",
+            "episodio": 3,
+            "textoBase": "1 Tessalonicenses 5:16-18",
+            "data": "2025-05-31",
+            "pregador": "Jeffrey Dowdy",
+            "linkYouTube": "https://www.youtube.com/watch?v=KcsZzMuZju0",
+            "linkSpotify": "https://open.spotify.com/episode/08j6meLjNNHqEh4xOg8T3o"
+        },
+        {
+            "serie": "2024 mock",
+            "titulo": "2024 mock",
+            "episodio": 1,
+            "textoBase": "1 Tessalonicenses 5:16-18",
+            "data": "2024-01-01",
+            "pregador": "Jeffrey Dowdy",
+            "linkYouTube": "https://www.youtube.com/watch?v=KcsZzMuZju0",
+            "linkSpotify": "https://open.spotify.com/episode/08j6meLjNNHqEh4xOg8T3o"
+        }
+    ]
+}
