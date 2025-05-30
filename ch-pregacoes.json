@@ -21,24 +21,2433 @@
             "linkSpotify": "https://open.spotify.com/episode/08j6meLjNNHqEh4xOg8T3o"
         },
         {
-            "serie": "Humildade Encarnada",
-            "titulo": "A Humilde Obediência de Jesus à Palavra",
-            "episodio": 3,
-            "textoBase": "1 Tessalonicenses 5:16-18",
-            "data": "2025-05-31",
-            "pregador": "Jeffrey Dowdy",
-            "linkYouTube": "https://www.youtube.com/watch?v=KcsZzMuZju0",
-            "linkSpotify": "https://open.spotify.com/episode/08j6meLjNNHqEh4xOg8T3o"
+            "serie": "Crescimento Espiritual",
+            "titulo": "Sofrimento",
+            "episodio": 6,
+            "textoBase": null,
+            "pregador": null,
+            "data": "2020-06-14",
+            "linkYouTube": "https://www.linkYouTube.com/watch?v=NL0Q82CzdhI"
         },
         {
-            "serie": "2024 mock",
-            "titulo": "2024 mock",
+            "serie": "Crescimento Espiritual",
+            "titulo": "Mudança Bíblica",
+            "episodio": 5,
+            "textoBase": null,
+            "pregador": null,
+            "data": "2020-06-07",
+            "linkYouTube": "https://youtu.be/i8U2qWmurmA"
+        },
+        {
+            "serie": "Crescimento Espiritual",
+            "titulo": "As Dinâmicas do Coração",
+            "episodio": 4,
+            "textoBase": null,
+            "pregador": null,
+            "data": "2020-05-31",
+            "linkYouTube": "https://youtu.be/9MeVcWwL3bw"
+        },
+        {
+            "serie": "Crescimento Espiritual",
+            "titulo": "Obstáculos para o Crescimento Espiritual",
+            "episodio": 3,
+            "textoBase": null,
+            "pregador": null,
+            "data": "2020-05-19",
+            "linkYouTube": "https://youtu.be/YqPQuOdAzz0"
+        },
+        {
+            "serie": "Crescimento Espiritual",
+            "titulo": "O Que é Devocional",
+            "episodio": 2,
+            "textoBase": null,
+            "pregador": null,
+            "data": "2020-05-05",
+            "linkYouTube": "https://www.linkYouTube.com/watch?v=1VR22evaGGQ"
+        },
+        {
+            "serie": "Crescimento Espiritual",
+            "titulo": "Definindo Crescimento Espiritual",
             "episodio": 1,
-            "textoBase": "1 Tessalonicenses 5:16-18",
-            "data": "2024-01-01",
-            "pregador": "Jeffrey Dowdy",
-            "linkYouTube": "https://www.youtube.com/watch?v=KcsZzMuZju0",
-            "linkSpotify": "https://open.spotify.com/episode/08j6meLjNNHqEh4xOg8T3o"
+            "textoBase": null,
+            "pregador": null,
+            "data": "2020-04-28",
+            "linkYouTube": "https://youtu.be/RpoIBgWKm70"
+        },
+        {
+            "serie": "Exposições em Colossenses",
+            "titulo": "Como perseverar na Oração?",
+            "episodio": 7,
+            "textoBase": "Colossenses",
+            "pregador": "Rafael Santos",
+            "data": "2020-08-09",
+            "linkYouTube": "https://youtu.be/EKpmiqwZGCo?list=PLwRpBuWpRamRUOqjkF1JebIUwV7E7NV_m"
+        },
+        {
+            "serie": "Exposições em Colossenses",
+            "titulo": "O poder da Palavra em nós",
+            "episodio": 6,
+            "textoBase": "Colossenses",
+            "pregador": "Rafael Santos",
+            "data": "2020-08-02",
+            "linkYouTube": "https://youtu.be/EKpmiqwZGCo?list=PLwRpBuWpRamRUOqjkF1JebIUwV7E7NV_m"
+        },
+        {
+            "serie": "Exposições em Colossenses",
+            "titulo": "Pensando nas coisas do alto, mas com pés no chão",
+            "episodio": 5,
+            "textoBase": "Colossenses",
+            "pregador": "Rafael Santos",
+            "data": "2020-07-26",
+            "linkYouTube": "https://youtu.be/j2djNrfF-_8?list=PLwRpBuWpRamRUOqjkF1JebIUwV7E7NV_m"
+        },
+        {
+            "serie": "Exposições em Colossenses",
+            "titulo": "Cuidado, não se esqueça do Evangelho!",
+            "episodio": 4,
+            "textoBase": "Colossenses",
+            "pregador": "Rafael Santos",
+            "data": "2020-07-19",
+            "linkYouTube": "https://youtu.be/scbghcARoAI?list=PLwRpBuWpRamRUOqjkF1JebIUwV7E7NV_m"
+        },
+        {
+            "serie": "Exposições em Colossenses",
+            "titulo": "O Evangelho Completo",
+            "episodio": 3,
+            "textoBase": "Colossenses",
+            "pregador": "Rafael Santos",
+            "data": "2020-07-12",
+            "linkYouTube": "https://www.linkYouTube.com/watch?v=1VR22evaGGQ"
+        },
+        {
+            "serie": "Exposições em Colossenses",
+            "titulo": "Usando os óculos do evangelho",
+            "episodio": 2,
+            "textoBase": "Colossenses",
+            "pregador": "Rafael Santos",
+            "data": "2020-07-05",
+            "linkYouTube": "https://youtu.be/1x8S0cAU73k?list=PLwRpBuWpRamRUOqjkF1JebIUwV7E7NV_m"
+        },
+        {
+            "serie": "Exposições em Colossenses",
+            "titulo": "O centro da Igreja",
+            "episodio": 1,
+            "textoBase": "Colossenses",
+            "pregador": "Rafael Santos",
+            "data": "2020-06-28",
+            "linkYouTube": "https://youtu.be/TNQnMA2G5O4?list=PLwRpBuWpRamRUOqjkF1JebIUwV7E7NV_m"
+        },
+        {
+            "serie": "As Cartas Pastorais - 1 Timóteo, 2 Timóteo, Tito e Filemom",
+            "titulo": "A autonomia do Evangelho nos conflitos.",
+            "episodio": 35,
+            "textoBase": null,
+            "pregador": "Rafael Santos",
+            "data": "2021-11-21",
+            "linkYouTube": "https://youtu.be/_Vvna8wY428"
+        },
+        {
+            "serie": "As Cartas Pastorais - 1 Timóteo, 2 Timóteo, Tito e Filemom",
+            "titulo": "Qual é a sua visao das boas obras?",
+            "episodio": 34,
+            "textoBase": null,
+            "pregador": "Jeff Dowdy",
+            "data": "2021-11-14",
+            "linkYouTube": "https://youtu.be/laudbLwXBDg"
+        },
+        {
+            "serie": "As Cartas Pastorais - 1 Timóteo, 2 Timóteo, Tito e Filemom",
+            "titulo": "Qual é o papel do cristão na sociedade?",
+            "episodio": 33,
+            "textoBase": null,
+            "pregador": "Rafael Santos",
+            "data": "2021-11-07",
+            "linkYouTube": "https://youtu.be/MWYt2L_8380"
+        },
+        {
+            "serie": "As Cartas Pastorais - 1 Timóteo, 2 Timóteo, Tito e Filemom",
+            "titulo": "O que torna a graça tão preciosa?",
+            "episodio": 32,
+            "textoBase": null,
+            "pregador": "Rafael Santos",
+            "data": "2021-10-24",
+            "linkYouTube": "https://youtu.be/Qki1zy5RSs4"
+        },
+        {
+            "serie": "As Cartas Pastorais - 1 Timóteo, 2 Timóteo, Tito e Filemom",
+            "titulo": "Envelhecendo no evangelho",
+            "episodio": 31,
+            "textoBase": null,
+            "pregador": "Jeff Dowdy",
+            "data": "2021-10-17",
+            "linkYouTube": "https://youtu.be/CIUSlA88CgE"
+        },
+        {
+            "serie": "As Cartas Pastorais - 1 Timóteo, 2 Timóteo, Tito e Filemom",
+            "titulo": "De onde vêm os líderes?",
+            "episodio": 30,
+            "textoBase": null,
+            "pregador": "Rafael Santos",
+            "data": "2021-10-10",
+            "linkYouTube": "https://youtu.be/eRXyjVzpcIA"
+        },
+        {
+            "serie": "As Cartas Pastorais - 1 Timóteo, 2 Timóteo, Tito e Filemom",
+            "titulo": "O Deus que não mente",
+            "episodio": 29,
+            "textoBase": null,
+            "pregador": "Rafael Santos",
+            "data": "2021-10-03",
+            "linkYouTube": "https://youtu.be/ufWpyQ2IlNI"
+        },
+        {
+            "serie": "As Cartas Pastorais - 1 Timóteo, 2 Timóteo, Tito e Filemom",
+            "titulo": "Conclusão de 2 Timóteo",
+            "episodio": 28,
+            "textoBase": null,
+            "pregador": "Rafael Santos",
+            "data": "2021-09-26",
+            "linkYouTube": "https://youtu.be/aS5UN7G269g"
+        },
+        {
+            "serie": "As Cartas Pastorais - 1 Timóteo, 2 Timóteo, Tito e Filemom",
+            "titulo": "Suas ÚLTIMAS palavras",
+            "episodio": 27,
+            "textoBase": null,
+            "pregador": "Rafael Santos",
+            "data": "2021-09-19",
+            "linkYouTube": "https://youtu.be/y8eGlS6WdhU"
+        },
+        {
+            "serie": "As Cartas Pastorais - 1 Timóteo, 2 Timóteo, Tito e Filemom",
+            "titulo": "a palavra que eu preciso ouvir.",
+            "episodio": 26,
+            "textoBase": null,
+            "pregador": "Jeff Dowdy",
+            "data": "2021-09-12",
+            "linkYouTube": "https://youtu.be/4QZNNaZJePc"
+        },
+        {
+            "serie": "As Cartas Pastorais - 1 Timóteo, 2 Timóteo, Tito e Filemom",
+            "titulo": "A UTILIDADE da escritura.",
+            "episodio": 25,
+            "textoBase": null,
+            "pregador": "Rafael Santos",
+            "data": "2021-09-05",
+            "linkYouTube": "https://youtu.be/mf6I3hf0k1A"
+        },
+        {
+            "serie": "As Cartas Pastorais - 1 Timóteo, 2 Timóteo, Tito e Filemom",
+            "titulo": "Tempos difíceis",
+            "episodio": 24,
+            "textoBase": null,
+            "pregador": "Rafael Santos",
+            "data": "2021-08-29",
+            "linkYouTube": "https://youtu.be/u9w2rBIZCjs"
+        },
+        {
+            "serie": "As Cartas Pastorais - 1 Timóteo, 2 Timóteo, Tito e Filemom",
+            "titulo": "O Senhor conhece aqueles que pertencem a ele.",
+            "episodio": 23,
+            "textoBase": null,
+            "pregador": "Rafael Santos",
+            "data": "2021-08-22",
+            "linkYouTube": "https://youtu.be/Rsaw1AqxRQ4"
+        },
+        {
+            "serie": "As Cartas Pastorais - 1 Timóteo, 2 Timóteo, Tito e Filemom",
+            "titulo": "Sorria! voce esta sendo enganado",
+            "episodio": 22,
+            "textoBase": null,
+            "pregador": "Thyago Salvino",
+            "data": "2021-08-15",
+            "linkYouTube": "https://youtu.be/Ec5XpBHpuYE"
+        },
+        {
+            "serie": "As Cartas Pastorais - 1 Timóteo, 2 Timóteo, Tito e Filemom",
+            "titulo": "Suas lembranças têm poder",
+            "episodio": 21,
+            "textoBase": null,
+            "pregador": "Rafael Santos",
+            "data": "2021-08-08",
+            "linkYouTube": "https://youtu.be/5D2Bv4aWRhs"
+        },
+        {
+            "serie": "As Cartas Pastorais - 1 Timóteo, 2 Timóteo, Tito e Filemom",
+            "titulo": "Eu não tenho força",
+            "episodio": 20,
+            "textoBase": null,
+            "pregador": "Rafael Santos",
+            "data": "2021-08-01",
+            "linkYouTube": "https://www.linkYouTube.com/embed/aqP1ul-GxRY"
+        },
+        {
+            "serie": "As Cartas Pastorais - 1 Timóteo, 2 Timóteo, Tito e Filemom",
+            "titulo": "A Dor do abandono",
+            "episodio": 19,
+            "textoBase": null,
+            "pregador": "Rafael Santos",
+            "data": "2021-07-25",
+            "linkYouTube": "https://youtu.be/4093GwmDqnI"
+        },
+        {
+            "serie": "As Cartas Pastorais - 1 Timóteo, 2 Timóteo, Tito e Filemom",
+            "titulo": "Quero ter certeza!",
+            "episodio": 18,
+            "textoBase": null,
+            "pregador": "Jeff Dowdy",
+            "data": "2021-07-18",
+            "linkYouTube": "https://www.linkYouTube.com/embed/QVPeYZwY3hw"
+        },
+        {
+            "serie": "As Cartas Pastorais - 1 Timóteo, 2 Timóteo, Tito e Filemom",
+            "titulo": "E agora? Só Vai!",
+            "episodio": 17,
+            "textoBase": null,
+            "pregador": "Rafael Santos",
+            "data": "2021-07-11",
+            "linkYouTube": "https://youtu.be/5wTjV4_SwrU"
+        },
+        {
+            "serie": "As Cartas Pastorais - 1 Timóteo, 2 Timóteo, Tito e Filemom",
+            "titulo": "O que te motiva?",
+            "episodio": 16,
+            "textoBase": null,
+            "pregador": "Rafael Santos",
+            "data": "2021-07-04",
+            "linkYouTube": "https://youtu.be/DiNogWQ_7GI"
+        },
+        {
+            "serie": "As Cartas Pastorais - 1 Timóteo, 2 Timóteo, Tito e Filemom",
+            "titulo": "1 Timóteo 6:17-21",
+            "episodio": 15,
+            "textoBase": "1 Timóteo 6:17-21",
+            "pregador": "Rafael Santos",
+            "data": "2021-06-27",
+            "linkYouTube": "https://youtu.be/eTUV1mnIilU"
+        },
+        {
+            "serie": "As Cartas Pastorais - 1 Timóteo, 2 Timóteo, Tito e Filemom",
+            "titulo": "1 Timóteo 6:11-16",
+            "episodio": 14,
+            "textoBase": "1 Timóteo 6:11-16",
+            "pregador": "Paulo Fortunas",
+            "data": "2021-06-20",
+            "linkYouTube": "https://youtu.be/sgg9kKyvHns"
+        },
+        {
+            "serie": "As Cartas Pastorais - 1 Timóteo, 2 Timóteo, Tito e Filemom",
+            "titulo": "1 Timóteo 6:1-10",
+            "episodio": 13,
+            "textoBase": "1 Timóteo 6:1-10",
+            "pregador": "Rafael Santos",
+            "data": "2021-06-13",
+            "linkYouTube": "https://youtu.be/GuQP9aKdMvk"
+        },
+        {
+            "serie": "As Cartas Pastorais - 1 Timóteo, 2 Timóteo, Tito e Filemom",
+            "titulo": "1 Timóteo 5:17-25",
+            "episodio": 12,
+            "textoBase": "1 Timóteo 5:17-25",
+            "pregador": "Jeff Dowdy",
+            "data": "2021-06-06",
+            "linkYouTube": "https://youtu.be/RH_6u7jdHc8"
+        },
+        {
+            "serie": "As Cartas Pastorais - 1 Timóteo, 2 Timóteo, Tito e Filemom",
+            "titulo": "1 Timóteo 5:1-16",
+            "episodio": 11,
+            "textoBase": "1 Timóteo 5:1-16",
+            "pregador": "Thiago Junqueira",
+            "data": "2021-05-30",
+            "linkYouTube": "https://youtu.be/rx7DGPa4ttU"
+        },
+        {
+            "serie": "As Cartas Pastorais - 1 Timóteo, 2 Timóteo, Tito e Filemom",
+            "titulo": "1 Timóteo 4:6-16",
+            "episodio": 10,
+            "textoBase": "1 Timóteo 4:6-16",
+            "pregador": "Igor Siqueira",
+            "data": "2021-05-23",
+            "linkYouTube": "https://youtu.be/rm7oTue25xM"
+        },
+        {
+            "serie": "As Cartas Pastorais - 1 Timóteo, 2 Timóteo, Tito e Filemom",
+            "titulo": "1 Timóteo 4:1-5",
+            "episodio": 9,
+            "textoBase": "1 Timóteo 4:1-5",
+            "pregador": "Rafael Santos",
+            "data": "2021-05-16",
+            "linkYouTube": "https://www.linkYouTube.com/watch?v=a45ylUf9p0E"
+        },
+        {
+            "serie": "As Cartas Pastorais - 1 Timóteo, 2 Timóteo, Tito e Filemom",
+            "titulo": "1 Timóteo 3:8-16",
+            "episodio": 8,
+            "textoBase": "1 Timóteo 3:8-16",
+            "pregador": "Rafael Santos",
+            "data": "2021-05-09",
+            "linkYouTube": "https://www.linkYouTube.com/watch?v=efNxI_KneXc"
+        },
+        {
+            "serie": "As Cartas Pastorais - 1 Timóteo, 2 Timóteo, Tito e Filemom",
+            "titulo": "1 Timóteo 3:1-7",
+            "episodio": 7,
+            "textoBase": "1 Timóteo 3:1-7",
+            "pregador": "Rafael Santos",
+            "data": "2021-05-02",
+            "linkYouTube": "https://youtu.be/NdjYP3wB-K8"
+        },
+        {
+            "serie": "As Cartas Pastorais - 1 Timóteo, 2 Timóteo, Tito e Filemom",
+            "titulo": "1 Timóteo 2:8-15",
+            "episodio": 6,
+            "textoBase": "1 Timóteo 2:8-15",
+            "pregador": "Rafael Santos",
+            "data": "2021-04-24",
+            "linkYouTube": "https://youtu.be/Lj6ANYgei-c"
+        },
+        {
+            "serie": "As Cartas Pastorais - 1 Timóteo, 2 Timóteo, Tito e Filemom",
+            "titulo": "1 Timóteo 2:1-7",
+            "episodio": 5,
+            "textoBase": "1 Timóteo 2:1-7",
+            "pregador": "Rafael Santos",
+            "data": "2021-04-18",
+            "linkYouTube": "https://youtu.be/IoK7FLQ0_lc"
+        },
+        {
+            "serie": "As Cartas Pastorais - 1 Timóteo, 2 Timóteo, Tito e Filemom",
+            "titulo": "1 Timóteo 1:18-20",
+            "episodio": 4,
+            "textoBase": "1 Timóteo 1:18-20",
+            "pregador": "Thyago Silvano",
+            "data": "2021-04-11",
+            "linkYouTube": "https://youtu.be/W7Zf6UCXWVY"
+        },
+        {
+            "serie": "As Cartas Pastorais - 1 Timóteo, 2 Timóteo, Tito e Filemom",
+            "titulo": "1 Timóteo 1:12-17",
+            "episodio": 3,
+            "textoBase": "1 Timóteo 1:12-17",
+            "pregador": "Jeff Dowdy",
+            "data": "2021-03-14",
+            "linkYouTube": "https://youtu.be/BZDSsWnzIPo"
+        },
+        {
+            "serie": "As Cartas Pastorais - 1 Timóteo, 2 Timóteo, Tito e Filemom",
+            "titulo": "1 Timóteo 1:3-11",
+            "episodio": 2,
+            "textoBase": "1 Timóteo 1:3-11",
+            "pregador": "Rafael Santos",
+            "data": "2021-03-07",
+            "linkYouTube": "https://www.linkYouTube.com/watch?v=gz5KvrZNzKg"
+        },
+        {
+            "serie": "As Cartas Pastorais - 1 Timóteo, 2 Timóteo, Tito e Filemom",
+            "titulo": "Introdução 1-7, 1 Timóteo 1:1-2",
+            "episodio": 1,
+            "textoBase": "1 Timóteo 1:1-2",
+            "pregador": "Rafael Santos",
+            "data": "2021-02-28",
+            "linkYouTube": "https://www.linkYouTube.com/watch?v=8N2-1EY4fQE&list=PLwRpBuWpRamQwF4UETSbkjwTkgE4KAbAe"
+        },
+        {
+            "titulo": "Vídeo de Introdução - O Evangelho de MARCOS",
+            "episodio": null,
+            "textoBase": null,
+            "pregador": null,
+            "data": "2016",
+            "linkYouTube": "https://youtu.be/kHUAcYJ--Hc"
+        },
+        {
+            "serie": "O Evangelho de Marcos",
+            "titulo": "O Começo",
+            "episodio": 18,
+            "textoBase": "Marcos",
+            "pregador": "Rafael Santos",
+            "data": "2021-02-21",
+            "linkYouTube": "https://www.linkYouTube.com/watch?v=-0trUpvvy4k"
+        },
+        {
+            "serie": "O Evangelho de Marcos",
+            "titulo": "O Fim",
+            "episodio": 17,
+            "textoBase": "Marcos",
+            "pregador": "Rafael Santos",
+            "data": "2021-02-07",
+            "linkYouTube": "https://www.linkYouTube.com/watch?v=S2El0CJmxX8"
+        },
+        {
+            "serie": "O Evangelho de Marcos",
+            "titulo": "A Espada",
+            "episodio": 16,
+            "textoBase": "Marcos",
+            "pregador": "Rafael Santos",
+            "data": "2021-01-31",
+            "linkYouTube": "https://www.linkYouTube.com/watch?v=MGpLruSTCOg"
+        },
+        {
+            "serie": "O Evangelho de Marcos",
+            "titulo": "O Cálice",
+            "episodio": 15,
+            "textoBase": "Marcos",
+            "pregador": "Rafael Santos",
+            "data": "2021-01-24",
+            "linkYouTube": "https://www.linkYouTube.com/watch?v=cjE7FAxwMYE"
+        },
+        {
+            "serie": "O Evangelho de Marcos",
+            "titulo": "A Festa",
+            "episodio": 14,
+            "textoBase": "Marcos",
+            "pregador": "Rafael Santos",
+            "data": "2021-01-17",
+            "linkYouTube": "https://www.linkYouTube.com/watch?v=kczQSumtgxI"
+        },
+        {
+            "serie": "O Evangelho de Marcos",
+            "titulo": "O Resgate",
+            "episodio": 13,
+            "textoBase": "Marcos",
+            "pregador": "Rafael Santos",
+            "data": "2020-12-13",
+            "linkYouTube": "https://www.linkYouTube.com/watch?v=WV9LPSCLHjQ"
+        },
+        {
+            "serie": "O Evangelho de Marcos",
+            "titulo": "A Armadilha",
+            "episodio": 12,
+            "textoBase": "Marcos",
+            "pregador": "Rafael Santos",
+            "data": "2020-12-06",
+            "linkYouTube": "https://www.linkYouTube.com/watch?v=Qn5zl7AXFKk"
+        },
+        {
+            "serie": "O Evangelho de Marcos",
+            "titulo": "A Montanha",
+            "episodio": 11,
+            "textoBase": "Marcos",
+            "pregador": "Rafael Santos",
+            "data": "2020-11-29",
+            "linkYouTube": "https://www.linkYouTube.com/watch?v=9k01-K7mNpk"
+        },
+        {
+            "serie": "O Evangelho de Marcos",
+            "titulo": "A Virada",
+            "episodio": 10,
+            "textoBase": "Marcos",
+            "pregador": "Rafael Santos",
+            "data": "2020-11-22",
+            "linkYouTube": "https://www.linkYouTube.com/watch?v=b0Cmu7gRDXQ"
+        },
+        {
+            "serie": "O Evangelho de Marcos",
+            "titulo": "A Aproximação",
+            "episodio": 9,
+            "textoBase": "Marcos",
+            "pregador": "Rafael Santos",
+            "data": "2020-11-15",
+            "linkYouTube": "https://www.linkYouTube.com/watch?v=oqj5n27MOds"
+        },
+        {
+            "serie": "O Evangelho de Marcos",
+            "titulo": "A Mancha",
+            "episodio": 8,
+            "textoBase": "Marcos",
+            "pregador": "Thyago Salvino",
+            "data": "2020-11-08",
+            "linkYouTube": "https://www.linkYouTube.com/watch?v=QAsaSceWDgk"
+        },
+        {
+            "serie": "O Evangelho de Marcos",
+            "titulo": "A Espera",
+            "episodio": 7,
+            "textoBase": "Marcos",
+            "pregador": "Rafael Santos",
+            "data": "2020-10-25",
+            "linkYouTube": "https://www.linkYouTube.com/watch?v=lcc6g7CqTdA"
+        },
+        {
+            "serie": "O Evangelho de Marcos",
+            "titulo": "O Poder",
+            "episodio": 6,
+            "textoBase": "Marcos",
+            "pregador": "Rafael Santos",
+            "data": "2020-10-18",
+            "linkYouTube": "https://www.linkYouTube.com/watch?v=I-HrGsEUzlE"
+        },
+        {
+            "serie": "O Evangelho de Marcos",
+            "titulo": "O Descanso",
+            "episodio": 5,
+            "textoBase": "Marcos",
+            "pregador": "Rafael Santos",
+            "data": "2020-10-11",
+            "linkYouTube": "https://www.linkYouTube.com/watch?v=cdTZB4m5rZU"
+        },
+        {
+            "serie": "O Evangelho de Marcos",
+            "titulo": "A Cura",
+            "episodio": 4,
+            "textoBase": "Marcos",
+            "pregador": "Rafael Santos",
+            "data": "2020-10-04",
+            "linkYouTube": "https://www.linkYouTube.com/watch?v=HS7HcFECPms"
+        },
+        {
+            "serie": "O Evangelho de Marcos",
+            "titulo": "O Chamado",
+            "episodio": 3,
+            "textoBase": "Marcos",
+            "pregador": "Rafael Santos",
+            "data": "2020-09-27",
+            "linkYouTube": "https://www.linkYouTube.com/watch?v=5m4Yh28Ioxg"
+        },
+        {
+            "serie": "O Evangelho de Marcos",
+            "titulo": "A Tentação de Jesus",
+            "episodio": 2,
+            "textoBase": "Marcos",
+            "pregador": "Rafael Santos",
+            "data": "2020-09-20",
+            "linkYouTube": "https://www.linkYouTube.com/watch?v=bRLgSfLRMWE"
+        },
+        {
+            "serie": "O Evangelho de Marcos",
+            "titulo": "A Dança da Trindade",
+            "episodio": 1,
+            "textoBase": "Marcos",
+            "pregador": "Rafael Santos",
+            "data": "2020-09-13",
+            "linkYouTube": "https://youtu.be/U8fjcvrzB7k?list=PLwRpBuWpRamQ8WZXUxHnOnVYMSNSGX17A"
+        },
+        {
+            "serie": "Jonas - Graça Profunda",
+            "titulo": "O Sinal de Jonas",
+            "episodio": 5,
+            "textoBase": "Matheus  12:38-41",
+            "pregador": "Daniel Souza",
+            "data": "2019-03-03",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5c7d6ad515fcc00242ff321e/1552260515796/190303_001.mp3/original/190303_001.mp3"
+        },
+        {
+            "serie": "Jonas - Graça Profunda",
+            "titulo": "Nos Lembrando de Onde Viemos (Jonas 4)",
+            "episodio": 4,
+            "textoBase": "Jonas 4",
+            "pregador": "Daniel Souza",
+            "data": "2019-02-24",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5c73f5effa0d600773c652a5/1552260515800/Pregacao+-+24-02-19.mp3/original/Pregacao+-+24-02-19.mp3"
+        },
+        {
+            "serie": "Jonas - Graça Profunda",
+            "titulo": "Deus Exalta os Humildes (Jonas 3)",
+            "episodio": 3,
+            "textoBase": "Jonas 3",
+            "pregador": "Daniel Souza",
+            "data": "2019-02-17",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5c6a11d4652deadf25d41b63/1552260515805/Prega%C3%A7%C3%A3o+-+02-17.mp3/original/Prega%C3%A7%C3%A3o+-+02-17.mp3"
+        },
+        {
+            "serie": "Jonas - Graça Profunda",
+            "titulo": "Uma Vida de Arrependimento (Jonas 2)",
+            "episodio": 2,
+            "textoBase": "Jonas 2",
+            "pregador": "Daniel Souza",
+            "data": "2019-02-10",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5c667d01eb39315d87baa7c2/1552260515808/190210_001.mp3/original/190210_001.mp3"
+        },
+        {
+            "serie": "Jonas - Graça Profunda",
+            "titulo": "Grande é o Pecado - Sua Graça é Maior (Jonas 1) ",
+            "episodio": 1,
+            "textoBase": "Jonas 1",
+            "pregador": "Daniel Souza",
+            "data": "2019-02-03",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5c58469771c10bb86419424d/1552260515812/190203_003+%28mp3cut.net%29.mp3/original/190203_003+%28mp3cut.net%29.mp3"
+        },
+        {
+            "serie": "Advento - Cristo nas Alianças",
+            "titulo": "Advento - Cristo nas Alianças (Parte 3)",
+            "episodio": 3,
+            "textoBase": null,
+            "pregador": "Daniel Souza",
+            "data": "2017-12-24",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e7fe18914477f68e73c2d70/1585941695793/171224_003.MP3/original/171224_003.MP3"
+        },
+        {
+            "serie": "Advento - Cristo nas Alianças",
+            "titulo": "Advento - Cristo nas Alianças (Parte 2)",
+            "episodio": 2,
+            "textoBase": null,
+            "pregador": "Daniel Souza",
+            "data": "2017-12-17",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e7fded47d4e8e31876e8f2f/1585941695795/171217_001.MP3/original/171217_001.MP3"
+        },
+        {
+            "serie": "Advento - Cristo nas Alianças",
+            "titulo": "Advento - Cristo nas Alianças (Parte 1)",
+            "episodio": 1,
+            "textoBase": null,
+            "pregador": "Daniel Souza",
+            "data": "2017-12-10",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e7fdbcad5037c1157d067eb/1585941695799/171210_001.MP3/original/171210_001.MP3"
+        },
+        {
+            "serie": "Queridos Exilados - As Cartas de Pedro",
+            "titulo": "Que tipo de pessoas seremos?",
+            "episodio": 34,
+            "textoBase": "2 Pedro 3:14-18",
+            "pregador": "Daniel Souza",
+            "data": "2017-12-03",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e7fda56b4d27021657643b9/1513281278988/171203_001.MP3/original/171203_001.MP3"
+        },
+        {
+            "serie": "Queridos Exilados - As Cartas de Pedro",
+            "titulo": "Os Novos Céus e a Nova Terra",
+            "episodio": 33,
+            "textoBase": "2 Pedro 3:11-13",
+            "pregador": "Daniel Souza",
+            "data": "2017-11-26",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e7fda56b4d27021657643bb/1513280752317/Prega%C3%A7%C3%A3o%2B26-11.MP3/original/Prega%C3%A7%C3%A3o%2B26-11.MP3"
+        },
+        {
+            "serie": "Queridos Exilados - As Cartas de Pedro",
+            "titulo": "A Paciência de Deus e o Arrependimento",
+            "episodio": 32,
+            "textoBase": "2 Pedro 3:8-10",
+            "pregador": "Thiago Junqueira",
+            "data": "2017-11-19",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e7fda56b4d27021657643bd/1513280320123/171119_001+%281%29.MP3/original/171119_001+%281%29.MP3"
+        },
+        {
+            "serie": "Queridos Exilados - As Cartas de Pedro",
+            "titulo": "Queridos Exilados - As cartas de Pedro",
+            "episodio": 31,
+            "textoBase": "2 Pedro 3:1-7",
+            "pregador": "Thiago Junqueira",
+            "data": "2017-11-12",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e7fda56b4d27021657643bf/1513279636454/171112_001+%281%29.MP3/original/171112_001+%281%29.MP3"
+        },
+        {
+            "serie": "Queridos Exilados - As Cartas de Pedro",
+            "titulo": "Fontes sem água",
+            "episodio": 30,
+            "textoBase": "2 Pedro 2:17-22",
+            "pregador": "Daniel de Souza",
+            "data": "2017-11-05",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e7fda56b4d27021657643c1/1513278151081/171105_001.MP3/original/171105_001.MP3"
+        },
+        {
+            "serie": "Queridos Exilados - As Cartas de Pedro",
+            "titulo": "A Irracionalidade do Pecado",
+            "episodio": 29,
+            "textoBase": "2 Pedro 2:10b-16",
+            "pregador": "Daniel Souza",
+            "data": "2017-10-15",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e7fda56b4d27021657643c3/1508090271373/171015_001SOUZA.mp3/original/171015_001SOUZA.mp3"
+        },
+        {
+            "serie": "Queridos Exilados - As Cartas de Pedro",
+            "titulo": "A Certeza da Justiça de Deus",
+            "episodio": 28,
+            "textoBase": "2 Pedro 2:4-10a",
+            "pregador": "Alan Andrioni",
+            "data": "2017-10-08",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e7fda56b4d27021657643c5/1507646692768/171008_002.MP3/original/171008_002.MP3"
+        },
+        {
+            "serie": "Queridos Exilados - As Cartas de Pedro",
+            "titulo": "Falsos Mestres",
+            "episodio": 27,
+            "textoBase": "2 Pedro 2:1-3",
+            "pregador": "Daniel Souza",
+            "data": "2017-10-01",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e7fda56b4d27021657643c7/1506899636879/171001_002.MP3/original/171001_002.MP3"
+        },
+        {
+            "serie": "Queridos Exilados - As Cartas de Pedro",
+            "titulo": "A Realidade do Reino e o Empenho dos Cristãos",
+            "episodio": 26,
+            "textoBase": "2 Pedro 1:5-11",
+            "pregador": "Alan Andrioni",
+            "data": "2017-09-10",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e7fda56b4d27021657643c9/1505170749683/170910_001.MP3/original/170910_001.MP3"
+        },
+        {
+            "serie": "Queridos Exilados - As Cartas de Pedro",
+            "titulo": "O Conhecimento de Deus que nos Liberta",
+            "episodio": 25,
+            "textoBase": "2 Pedro 1:1-4",
+            "pregador": "Daniel Souza",
+            "data": "2017-09-03",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e7fda56b4d27021657643cb/1504480046718/170903_001.MP3/original/170903_001.MP3"
+        },
+        {
+            "serie": "Queridos Exilados - As Cartas de Pedro",
+            "titulo": "Viver é Cristo",
+            "episodio": 24,
+            "textoBase": "1 Pedro",
+            "pregador": "Jon Elam",
+            "data": "2017-08-30",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e7fda56b4d27021657643cd/1504083313312/170827_001JON.mp3/original/170827_001JON.mp3"
+        },
+        {
+            "serie": "Queridos Exilados - As Cartas de Pedro",
+            "titulo": "Enfrentando o Inimigo, Firmes na Fé",
+            "episodio": 23,
+            "textoBase": "1 Pedro 5:8-14",
+            "pregador": "Daniel Souza",
+            "data": "2017-08-20",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e7fda56b4d27021657643cf/1503251607273/170820_004.MP3/original/170820_004.MP3"
+        },
+        {
+            "serie": "Queridos Exilados - As Cartas de Pedro",
+            "titulo": "A Graça da Humildade",
+            "episodio": 22,
+            "textoBase": "1 Pedro 5:5-7",
+            "pregador": "Daniel Souza",
+            "data": "2017-08-13",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e7fda56b4d27021657643d1/1502654089192/170813_002.MP3/original/170813_002.MP3"
+        },
+        {
+            "serie": "Queridos Exilados - As Cartas de Pedro",
+            "titulo": "Pastoreando o Rebanho de Deus",
+            "episodio": 21,
+            "textoBase": "1 Pedro 5:1-4",
+            "pregador": "Daniel Souza",
+            "data": "2017-08-06",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e7fda56b4d27021657643d3/1502041957175/170806_003.m4a/original/170806_003.m4a"
+        },
+        {
+            "serie": "Queridos Exilados - As Cartas de Pedro",
+            "titulo": "Confiando Nossas Vidas a um Fiel Criador",
+            "episodio": 20,
+            "textoBase": "1 Pedro 4:12-19",
+            "pregador": "Daniel Souza",
+            "data": "2017-07-30",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e7fda56b4d27021657643d5/1501440252441/30072017.mp3/original/30072017.mp3"
+        },
+        {
+            "serie": "Queridos Exilados - As Cartas de Pedro",
+            "titulo": "Exercendo os Dons Espirituais em Amor",
+            "episodio": 19,
+            "textoBase": "1 Pedro 4:10-11",
+            "pregador": "Daniel Souza",
+            "data": "2017-07-16",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e7fda56b4d27021657643d7/1500233775761/170716_006.MP3/original/170716_006.MP3"
+        },
+        {
+            "serie": "Queridos Exilados - As Cartas de Pedro",
+            "titulo": "O Amor à Luz do Fim de Todas as Coisas",
+            "episodio": 18,
+            "textoBase": "1 Pedro 4:7-9",
+            "pregador": "Daniel Souza",
+            "data": "2017-07-09",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e7fda56b4d27021657643d9/1499621869656/1+Peter+4_7-9.mp3/original/1+Peter+4_7-9.mp3"
+        },
+        {
+            "serie": "Queridos Exilados - As Cartas de Pedro",
+            "titulo": "Rompendo com o Pecado Alegremente",
+            "episodio": 17,
+            "textoBase": "1 Pedro 4:1-6",
+            "pregador": "Daniel Souza",
+            "data": "2017-07-02",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e7fda56b4d27021657643db/1499025961848/170702_003.mp3/original/170702_003.mp3"
+        },
+        {
+            "serie": "Queridos Exilados - As Cartas de Pedro",
+            "titulo": "A Alegria em Meio ao Sofrimento",
+            "episodio": 16,
+            "textoBase": "1 Pedro 3:18-22",
+            "pregador": "Daniel Souza",
+            "data": "2017-06-25",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e7fda56b4d27021657643dd/1499025961850/Untitulod.mp3/original/Untitulod.mp3"
+        },
+        {
+            "serie": "Queridos Exilados - As Cartas de Pedro",
+            "titulo": "A Razão da Esperança que há em Nós",
+            "episodio": 15,
+            "textoBase": "1 Pedro 3:13-17",
+            "pregador": "Alan Andrioni",
+            "data": "2017-06-18",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e7fda56b4d27021657643df/1499025961852/AlanPregacao.mp3/original/AlanPregacao.mp3"
+        },
+        {
+            "serie": "Queridos Exilados - As Cartas de Pedro",
+            "titulo": "A Conduta Cristã e a Busca pela Felicidade",
+            "episodio": 14,
+            "textoBase": "1 Pedro 3:8-12",
+            "pregador": "Daniel Souza",
+            "data": "2017-06-11",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e7fda56b4d27021657643e1/1499025961853/Pregacao+20170611.mp3/original/Pregacao+20170611.mp3"
+        },
+        {
+            "serie": "Queridos Exilados - As Cartas de Pedro",
+            "titulo": "Glorificando a Deus no Casamento",
+            "episodio": 13,
+            "textoBase": "1 Pedro 3:1-7",
+            "pregador": "Daniel Souza",
+            "data": "2017-06-04",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e7fda56b4d27021657643e3/1499025961855/170604_003.MP3/original/170604_003.MP3"
+        },
+        {
+            "serie": "Queridos Exilados - As Cartas de Pedro",
+            "titulo": "Glorificando a Deus no Sofrimento Injusto",
+            "episodio": 12,
+            "textoBase": "1 Pedro 2:18-25",
+            "pregador": "Daniel Souza",
+            "data": "2017-05-28",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e7fda56b4d27021657643e5/1499025961856/170528.mp3/original/170528.mp3"
+        },
+        {
+            "serie": "Queridos Exilados - As Cartas de Pedro",
+            "titulo": "Cidadãos do Mundo; Cidadãos do Céu",
+            "episodio": 11,
+            "textoBase": "1 Pedro 2:11-17",
+            "pregador": "Daniel Souza",
+            "data": "2017-05-21",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e7fda56b4d27021657643e7/1499025961858/pregac%CC%A7a%CC%83o.mp3/original/pregac%CC%A7a%CC%83o.mp3"
+        },
+        {
+            "serie": "Queridos Exilados - As Cartas de Pedro",
+            "titulo": "O Povo de Deus e o Sacerdócio Real",
+            "episodio": 10,
+            "textoBase": "1 Pedro 2:9-10",
+            "pregador": "Daniel Souza",
+            "data": "2017-05-14",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e7fda56b4d27021657643e9/1499025961859/170514_002.MP3/original/170514_002.MP3"
+        },
+        {
+            "serie": "Queridos Exilados - As Cartas de Pedro",
+            "titulo": "A Igreja e o Templo de Deus",
+            "episodio": 9,
+            "textoBase": "1 Pedro 2:4-8",
+            "pregador": "Daniel Souza",
+            "data": "2017-05-07",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e7fda56b4d27021657643eb/1499025961860/Pregac%CC%A7a%CC%83o.MP3/original/Pregac%CC%A7a%CC%83o.MP3"
+        },
+        {
+            "serie": "Queridos Exilados - As Cartas de Pedro",
+            "titulo": "A Palavra de Deus e o Amor Sincero",
+            "episodio": 8,
+            "textoBase": "1 Pedro 1:22-2:3",
+            "pregador": "Daniel Souza",
+            "data": "2017-04-30",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e7fda56b4d27021657643ed/1499025961862/170430_003.MP3/original/170430_003.MP3"
+        },
+        {
+            "serie": "Queridos Exilados - As Cartas de Pedro",
+            "titulo": "A Santidade dos Filhos de Deus",
+            "episodio": 7,
+            "textoBase": "1 Pedro 1:14-19",
+            "pregador": "Daniel Souza",
+            "data": "2017-04-23",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e7fda56b4d27021657643ef/1499025961864/170423_020.MP3/original/170423_020.MP3"
+        },
+        {
+            "serie": "Queridos Exilados - As Cartas de Pedro",
+            "titulo": "A Esperança da Ressurreição",
+            "episodio": 6,
+            "textoBase": "1 Pedro 1:13, 20-21",
+            "pregador": "Daniel Souza",
+            "data": "2017-04-16",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e7fda56b4d27021657643f1/1492381860478/170416_001.MP3/original/170416_001.MP3"
+        },
+        {
+            "serie": "Queridos Exilados - As Cartas de Pedro",
+            "titulo": "A Glória da Salvação",
+            "episodio": 5,
+            "textoBase": "1 Pedro 1:10-12",
+            "pregador": "Daniel Souza",
+            "data": "2017-04-02",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e7fda56b4d27021657643f3/1491159645182/1Peter1_10-12.mp3/original/1Peter1_10-12.mp3"
+        },
+        {
+            "serie": "Queridos Exilados - As Cartas de Pedro",
+            "titulo": "Alegria nas Provações",
+            "episodio": 4,
+            "textoBase": "1 Pedro 1:6-9",
+            "pregador": "Daniel Souza",
+            "data": "2017-03-26",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e7fda56b4d27021657643f5/1490556343207/26032017.mp3/original/26032017.mp3"
+        },
+        {
+            "serie": "Queridos Exilados - As Cartas de Pedro",
+            "titulo": "Uma Esperança Viva",
+            "episodio": 3,
+            "textoBase": "1 Pedro 1:3-5",
+            "pregador": "Daniel Souza",
+            "data": "2017-03-19",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e7fda56b4d27021657643f7/1489962274645/170319_001.MP3/original/170319_001.MP3"
+        },
+        {
+            "serie": "Queridos Exilados - As Cartas de Pedro",
+            "titulo": "Queridos Exilados: Eleitos de Deus",
+            "episodio": 2,
+            "textoBase": "1 Pedro 1:1-2",
+            "pregador": "Daniel Souza",
+            "data": "2017-03-12",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e7fda56b4d27021657643f9/1489351842753/170312_002.MP3/original/170312_002.MP3"
+        },
+        {
+            "serie": "Queridos Exilados - As Cartas de Pedro",
+            "titulo": "Aos exilados...",
+            "episodio": 1,
+            "textoBase": "1 Pedro 1:1-2",
+            "pregador": "Daniel Souza",
+            "data": "2017-03-05",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e7fda56b4d27021657643fb/1488739701395/1Peter1_1-2.mp3/original/1Peter1_1-2.mp3"
+        },
+        {
+            "serie": "A Ansiedade e o Evangelho",
+            "titulo": "A Ansiedade e o Evangelho (Parte 2)",
+            "episodio": 2,
+            "textoBase": null,
+            "pregador": "Demps Dempsey",
+            "data": "2017-10-29",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e80ab30844cdb3584510785/1585941695806/Pregac%CC%A7a%CC%83o%2B29_10.mp3/original/Pregac%CC%A7a%CC%83o%2B29_10.mp3"
+        },
+        {
+            "serie": "A Ansiedade e o Evangelho",
+            "titulo": "A Ansiedade e o Evangelho (Parte 1)",
+            "episodio": 1,
+            "textoBase": null,
+            "pregador": "Demps Dempsey",
+            "data": "2017-10-22",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e7feff6e1a6fc55dd74e130/1585941695810/171022_001%2B%28mp3cut.net%29.mp3/original/171022_001%2B%28mp3cut.net%29.mp3"
+        },
+        {
+            "serie": "Retiro 2017",
+            "titulo": "A Graça Passada - Sessão 2 (sábado de manhã)",
+            "episodio": 2,
+            "textoBase": null,
+            "pregador": "Demps Dempsey",
+            "data": "2017-09-17",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e811a404ada5c79804f25cc/1585941695816/170916_001.mp3/original/170916_001.mp3"
+        },
+        {
+            "serie": "Retiro 2017",
+            "titulo": "A Graça Futura  - Sessão 1 (sexta à noite)",
+            "episodio": 1,
+            "textoBase": null,
+            "pregador": "Daniel Souza",
+            "data": "2017-09-16",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e8118bae1a6fc55dd980b30/1585941695820/170916_001.mp3/original/170916_001.mp3"
+        },
+        {
+            "serie": "Hábitos da Graça",
+            "titulo": "Missão",
+            "episodio": 5,
+            "textoBase": "2 Coríntios 5:16-21",
+            "pregador": "Daniel Souza",
+            "data": "2017-02-19",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e873778fbec5f395e3cebbe/1585941695831/170219_001.MP3/original/170219_001.MP3"
+        },
+        {
+            "serie": "Hábitos da Graça",
+            "titulo": "Generosidade",
+            "episodio": 4,
+            "textoBase": null,
+            "pregador": "Thiago Junqueira",
+            "data": "2017-02-05",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e867f23c67a266f076cc054/1585941695834/170205_001.MP3/original/170205_001.MP3"
+        },
+        {
+            "serie": "Hábitos da Graça",
+            "titulo": "Comunhão",
+            "episodio": 3,
+            "textoBase": null,
+            "pregador": "Ricardo Libaneo",
+            "data": "2017-01-29",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e86489fcc44436dc132482c/1585941695837/170129_001.MP3/original/170129_001.MP3"
+        },
+        {
+            "serie": "Hábitos da Graça",
+            "titulo": "Oração",
+            "episodio": 2,
+            "textoBase": null,
+            "pregador": "Alan Andrioni",
+            "data": "2017-01-15",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e86399ecc44436dc12ebcd2/1585941695856/Ha%CC%81bitos%2Bda%2BGrac%CC%A7a%2B%28Orac%CC%A7a%CC%83o%29.mp3/original/Ha%CC%81bitos%2Bda%2BGrac%CC%A7a%2B%28Orac%CC%A7a%CC%83o%29.mp3"
+        },
+        {
+            "serie": "Hábitos da Graça",
+            "titulo": "A Palavra",
+            "episodio": 1,
+            "textoBase": null,
+            "pregador": "Jon Elam",
+            "data": "2017-01-08",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e811e6d15eff3354cee10c4/1585941695859/Ha%CC%81bitos%2Bda%2BGrac%CC%A7a%2B%28Palavra%29.mp3/original/Ha%CC%81bitos%2Bda%2BGrac%CC%A7a%2B%28Palavra%29.mp3"
+        },
+        {
+            "serie": "Jesus: a sua Missão, Humanidade e Divindade",
+            "titulo": "Jesus: a sua Missão, Humanidade e Divindade",
+            "episodio": 1,
+            "textoBase": "Marcos 6:45-52",
+            "pregador": "Daniel Souza",
+            "data": "2017-02-26",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e873f4d1b82d754a85504f1/1585941695825/Pregac%CC%A7a%CC%83o+260217+-+Marcos+6.45-52.mp3/original/Pregac%CC%A7a%CC%83o+260217+-+Marcos+6.45-52.mp3"
+        },
+        {
+            "serie": "1 Coríntios",
+            "titulo": "A realidade da vida cristã: Abertura da série de 1 Coríntios",
+            "episodio": 1,
+            "textoBase": "1 Coríntios 1:1-9",
+            "pregador": "Rafael Santos",
+            "data": "2022-08-07",
+            "linkYouTube": "https://youtu.be/3eOnrlaWN381gzFxj8gcIN"
+        },
+        {
+            "serie": "1 Coríntios",
+            "titulo": "Concorde e não divida: o apelo de Paulo à Igreja",
+            "episodio": 2,
+            "textoBase": "1 Coríntios 1:10-17",
+            "pregador": "Rafael Santos",
+            "data": "2022-08-14",
+            "linkYouTube": "https://youtu.be/6yelb4bxJcjSnAr1fpsj3O"
+        },
+        {
+            "serie": "1 Coríntios",
+            "titulo": "A loucura da cruz",
+            "episodio": 3,
+            "textoBase": "1 Coríntios 1:18-25",
+            "pregador": "Rafael Santos",
+            "data": "2022-08-21",
+            "linkYouTube": "https://youtu.be/3hGvt5nwKeYFVjHCO5tok2"
+        },
+        {
+            "serie": "1 Coríntios",
+            "titulo": "A loucura de Deus, ele escolheu você",
+            "episodio": 4,
+            "textoBase": "1 Coríntios 1.26-31",
+            "pregador": "Rafael Santos",
+            "data": "2022-08-28",
+            "linkYouTube": "https://youtu.be/tE1WQkE3c0A"
+        },
+        {
+            "serie": "1 Coríntios",
+            "titulo": "Além do medo",
+            "episodio": 5,
+            "textoBase": "1 Coríntios 2:1-6",
+            "pregador": "Rafael Santos",
+            "data": "2022-09-04",
+            "linkYouTube": "https://youtu.be/qqFVKh0QNuc"
+        },
+        {
+            "serie": "1 Coríntios",
+            "titulo": "Sabedoria humana vs Sabedoria de Deus",
+            "episodio": 6,
+            "textoBase": "1 Coríntios 2:7-16",
+            "pregador": "Rafael Santos",
+            "data": "2022-09-11",
+            "linkYouTube": "https://youtu.be/NcZ3ydZMDyI"
+        },
+        {
+            "serie": "1 Coríntios",
+            "titulo": "O Cristão Carnal",
+            "episodio": 7,
+            "textoBase": "1 Coríntios 3:1-9",
+            "pregador": "Rafael Santos",
+            "data": "2022-09-18",
+            "linkYouTube": "https://youtu.be/WNz-WeDeZyw"
+        },
+        {
+            "serie": "1 Coríntios",
+            "titulo": "A Construção do Reino",
+            "episodio": 8,
+            "textoBase": "1 Coríntios 3:10-17",
+            "pregador": "Thiago Junqueira",
+            "data": "2022-09-25",
+            "linkYouTube": "https://youtu.be/GmgY_Aizdgg"
+        },
+        {
+            "serie": "1 Coríntios",
+            "titulo": "Conta as Bênçãos",
+            "episodio": 9,
+            "textoBase": "1 Coríntios 3:18-23",
+            "pregador": "Rafael Santos",
+            "data": "2022-11-06",
+            "linkYouTube": "https://youtu.be/1sqxAQlurTw"
+        },
+        {
+            "serie": "1 Coríntios",
+            "titulo": "Paralisia de Vida e Propósito",
+            "episodio": 10,
+            "textoBase": "1 Coríntios 4:1-5",
+            "pregador": "Rafael Santos",
+            "data": "2022-11-13",
+            "linkYouTube": "https://youtu.be/Gq9L4eH1o4E"
+        },
+        {
+            "serie": "1 Coríntios",
+            "titulo": "Sem Lugar para Arrogância",
+            "episodio": 11,
+            "textoBase": "1 Coríntios 4:6-13",
+            "pregador": "Rafael Santos",
+            "data": "2022-11-20",
+            "linkYouTube": "https://youtu.be/Y3u-mqZOerI"
+        },
+        {
+            "serie": "1 Coríntios",
+            "titulo": "O Pai que Ama",
+            "episodio": 12,
+            "textoBase": "1 Coríntios 4:14-21",
+            "pregador": "Rafael Santos",
+            "data": "2022-11-27",
+            "linkYouTube": "https://youtu.be/CO0oXTER7vM"
+        },
+        {
+            "serie": "1 Coríntios",
+            "titulo": "Escândalo na Igreja",
+            "episodio": 13,
+            "textoBase": "1 Coríntios 5:1-5",
+            "pregador": "Rafael Santos",
+            "data": "2023-01-15",
+            "linkYouTube": "https://youtu.be/1_Chd1FyBtc"
+        },
+        {
+            "serie": "1 Coríntios",
+            "titulo": "Escândalo na Igreja 2",
+            "episodio": 14,
+            "textoBase": "1 Coríntios 5:6-13",
+            "pregador": "Rafael Santos",
+            "data": "2023-01-22",
+            "linkYouTube": "https://youtu.be/MZz288oKxoE"
+        },
+        {
+            "serie": "1 Coríntios",
+            "titulo": "A Amplitude da Comunidade",
+            "episodio": 15,
+            "textoBase": "1 Coríntios 6:1-11",
+            "pregador": "Rafael Santos",
+            "data": "2023-01-29",
+            "linkYouTube": "https://youtu.be/T2M00sPwWBI"
+        },
+        {
+            "serie": "A.M.E.",
+            "titulo": "Os Estudantes de Hoje São os Líderes de Amanhã.",
+            "episodio": 1,
+            "textoBase": "Mateus 9:36-38",
+            "pregador": "Pedro Albuquerque",
+            "data": "2022-04-24",
+            "audio": "https://open.spotify.com/embed/episode/26OHR94d8hUCQ5txWn2dvp"
+        },
+        {
+            "serie": "A.M.E.",
+            "titulo": "O Credo de Jesus",
+            "episodio": 2,
+            "textoBase": "Mateus 22:37-38",
+            "pregador": "Jon Elam",
+            "data": "2022-04-03",
+            "audio": "https://open.spotify.com/embed/episode/71NrmGoUiGuoPGVgQR4YcX"
+        },
+        {
+            "serie": "A.M.E.",
+            "titulo": "Meu Primeiro Amor",
+            "episodio": 3,
+            "textoBase": "Apocalipse 2:1-7",
+            "pregador": "Thyago Salvino",
+            "data": "2022-03-27",
+            "audio": "https://open.spotify.com/embed/episode/6xljLg1bJ968b6Hvtw8jkT"
+        },
+        {
+            "serie": "A.M.E.",
+            "titulo": "O Melhor da Vida",
+            "episodio": 4,
+            "textoBase": "Filipenses 2:6-11",
+            "pregador": "Rafael Santos",
+            "data": "2022-03-13",
+            "audio": "https://open.spotify.com/embed/episode/3b42jyVIPmOwlrGBo60xxf"
+        },
+        {
+            "serie": "A.M.E.",
+            "titulo": "Migalhas para Deus",
+            "episodio": 5,
+            "textoBase": "Mateus 16:24-25",
+            "pregador": "Rafael Santos",
+            "data": "2022-03-06",
+            "audio": "https://open.spotify.com/embed/episode/2HjfqU7vm4xJi1PoJHVouh"
+        },
+        {
+            "serie": "A.M.E.",
+            "titulo": "Liberdade e Religiosidade",
+            "episodio": 6,
+            "textoBase": "Gálatas 5:1",
+            "pregador": "Rafael Santos",
+            "data": "2022-02-13",
+            "audio": "https://open.spotify.com/embed/episode/0LLRW7snzDvRCtUI3uTmpk"
+        },
+        {
+            "serie": "A.M.E.",
+            "titulo": "Será que a Comunhão É Boa?",
+            "episodio": 7,
+            "textoBase": "Salmos 133:1",
+            "pregador": "Jeff Dowdy",
+            "data": "2022-02-20",
+            "audio": "https://open.spotify.com/embed/episode/4IfTfIjI5oV5pueGxKr1s8"
+        },
+        {
+            "serie": "A.M.E.",
+            "titulo": "A Alegria da Reconciliação",
+            "episodio": 8,
+            "textoBase": "2 Coríntios 5:11-6:2",
+            "pregador": "Rafael Santos",
+            "data": "2022-02-06",
+            "audio": "https://youtu.be/InrzBYs951g"
+        },
+        {
+            "serie": "A.M.E.",
+            "titulo": "A Busca da Alegria",
+            "episodio": 9,
+            "textoBase": "Salmos 16:11",
+            "pregador": "Rafael Santos",
+            "data": "2022-01-16",
+            "audio": "https://youtu.be/wjvQYVrjtcc"
+        },
+        {
+            "serie": "As Cartas de João",
+            "titulo": "A Luz do Evangelho (1 João 1.5-2.2)",
+            "episodio": 1,
+            "textoBase": "1 João 1.5-2.2",
+            "pregador": "Daniel Souza",
+            "data": "2019-08-04",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5d4787a2c2f0c5000112eac6/1564969407741/190803_001.MP3/original/190803_001.MP3"
+        },
+        {
+            "serie": "As Cartas de João",
+            "titulo": "As Cartas de João (1 João 1.1-5)",
+            "episodio": 2,
+            "textoBase": "1 João 1.1-5",
+            "pregador": "Rafael Santos",
+            "data": "2019-08-28",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5d47805d5fb5b6000181e72b/1564967332601/190727_001.mp3/original/190727_001.mp3"
+        },
+        {
+            "serie": "As Cartas de João",
+            "titulo": "As Cartas de João (1 João 2.3-6)",
+            "episodio": 3,
+            "textoBase": "1 João 2.3-6",
+            "pregador": "Rafael Santos",
+            "data": "2019-08-11",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5d51a0c8df672f0001654f5c/1565630903603/190810_001+%28mp3cut.net%29.mp3/original/190810_001+%28mp3cut.net%29.mp3"
+        },
+        {
+            "serie": "As Cartas de João",
+            "titulo": "O amor à luz de Deus (1 João 2: 7-11)",
+            "episodio": 4,
+            "textoBase": "1 João 2: 7-11",
+            "pregador": "Daniel Souza",
+            "data": "2019-08-18",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5d59d9fa73fc5400010744b4/1566170412913/190817_001.mp3/original/190817_001.mp3"
+        },
+        {
+            "serie": "As Cartas de João",
+            "titulo": "As Cartas de João (1 João 2: 12-14)",
+            "episodio": 5,
+            "textoBase": "1 João 2: 12-14",
+            "pregador": "Rafael Santos",
+            "data": "2019-08-25",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5d63fa2ae074e40001157a5a/1566833699092/190824_001.mp3/original/190824_001.mp3"
+        },
+        {
+            "serie": "As Cartas de João",
+            "titulo": "As Cartas de João (1 João 2:15-17)",
+            "episodio": 6,
+            "textoBase": "1 João 2:15-17",
+            "pregador": "Rafael Santos",
+            "data": "2019-09-08",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5d77902a5c54605fce4fb5e6/1568117039085/190907_001.mp3/original/190907_001.mp3"
+        },
+        {
+            "serie": "As Cartas de João",
+            "titulo": "As Cartas de João (1 João 2:18-27)",
+            "episodio": 7,
+            "textoBase": "1 João 2:18-27",
+            "pregador": "Daniel Souza",
+            "data": "2019-09-15",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5d80c5ce268fad084c5008b5/1568720637759/190914_001.mp3/original/190914_001.mp3"
+        },
+        {
+            "serie": "As Cartas de João",
+            "titulo": "As Cartas de João (1 João 2:28 a 3:1-10)",
+            "episodio": 8,
+            "textoBase": "1 João 2:28 a 3:1-10",
+            "pregador": "Rafael Santos",
+            "data": "2019-09-22",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5d8a092788af8a5b46f31d6f/1569327621736/22-09-19.mp3/original/22-09-19.mp3"
+        },
+        {
+            "serie": "As Cartas de João",
+            "titulo": "As Cartas de João (1 João 3:11-18)",
+            "episodio": 9,
+            "textoBase": "1 João 3:11-18",
+            "pregador": "Rafael Santos",
+            "data": "2019-09-29",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5d9113665887e5437a1a42d9/1569789221113/190928_001+%28mp3cut.net%29.mp3/original/190928_001+%28mp3cut.net%29.mp3"
+        },
+        {
+            "serie": "As Cartas de João",
+            "titulo": "As Cartas de João (1 João 3:19- 24)",
+            "episodio": 10,
+            "textoBase": "1 João 3:19- 24",
+            "pregador": "Rafael Santos",
+            "data": "2019-10-06",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5d9b32b00fde3b6bdd0635d7/1570453361736/191005_001.mp3/original/191005_001.mp3"
+        },
+        {
+            "serie": "As Cartas de João",
+            "titulo": "As Cartas de João (1 João 4:1-6)",
+            "episodio": 11,
+            "textoBase": "1 João 4:1-6",
+            "pregador": "Rafael Santos",
+            "data": "2019-10-14",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5da4b46d4a448c3d83ae7895/1571076301150/191012_001+%28mp3cut.net%29+%281%29.mp3/original/191012_001+%28mp3cut.net%29+%281%29.mp3"
+        },
+        {
+            "serie": "As Cartas de João",
+            "titulo": "As Cartas de João (1 João 4:7-12)",
+            "episodio": 12,
+            "textoBase": "1 João 4:7-12",
+            "pregador": "Rafael Santos",
+            "data": "2019-10-20",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5daf0f6c728c545d871eb8e3/1571754104592/191019_001+%28mp3cut.net%29+%281%29.mp3/original/191019_001+%28mp3cut.net%29+%281%29.mp3"
+        },
+        {
+            "serie": "As Cartas de João",
+            "titulo": "As Cartas de João (1 João 4:13-21)",
+            "episodio": 13,
+            "textoBase": "1 João 4:13-21",
+            "pregador": "Rafael Santos",
+            "data": "2019-10-27",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5dbade341909c95585ee03f7/1572527919881/191027_001.MP3/original/191027_001.MP3"
+        },
+        {
+            "serie": "As Cartas de João",
+            "titulo": "As Cartas de João (1 João 5: 1-5)",
+            "episodio": 14,
+            "textoBase": "1 João 5: 1-5",
+            "pregador": "Rafael Santos",
+            "data": "2019-11-03",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5dc01dc87743ac695273964c/1572871951793/191102_001.mp3/original/191102_001.mp3"
+        },
+        {
+            "serie": "As Cartas de João",
+            "titulo": "As Cartas de João (1 João 5: 6-12)",
+            "episodio": 15,
+            "textoBase": "1 João 5: 6-12",
+            "pregador": "Demps Dempsey",
+            "data": "2019-11-10",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5dcc6f51139d1055b6715534/1573679299856/191109_001+%28mp3cut.net%29.mp3/original/191109_001+%28mp3cut.net%29.mp3"
+        },
+        {
+            "serie": "As Cartas de João",
+            "titulo": "As Cartas de João (1 João 5: 13-17)",
+            "episodio": 16,
+            "textoBase": "1 João 5: 13-17",
+            "pregador": "Rafael Santos",
+            "data": "2019-11-17",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5dd2866b48fc022359ae6c4b/1574078333457/191116_001+%28mp3cut.net%29+%281%29.mp3/original/191116_001+%28mp3cut.net%29+%281%29.mp3"
+        },
+        {
+            "serie": "As Cartas de João",
+            "titulo": "As Cartas de João (1 João 5: 18-21)",
+            "episodio": 17,
+            "textoBase": "1 João 5: 18-21",
+            "pregador": "Rafael Santos",
+            "data": "2019-11-24",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5ddc5192b6b5ad5a7e377fba/1574720125482/191123_001.MP3/original/191123_001.MP3"
+        },
+        {
+            "serie": "As Cartas de João",
+            "titulo": "As Cartas de João (2 João)",
+            "episodio": 18,
+            "textoBase": "2 João",
+            "pregador": "Rafael Santos",
+            "data": "2019-12-01",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5de467a4b93cc92d39ca7878/1575250006011/Untitled.m4a/original/Untitled.m4a"
+        },
+        {
+            "serie": "As Cartas de João",
+            "titulo": "As Cartas de João (3 João)",
+            "episodio": 19,
+            "textoBase": "3 João",
+            "pregador": "Rafael Santos",
+            "data": "2019-12-08",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5def8ec4c143057cf4d46f96/1575980989024/08+12+19.mp3/original/08+12+19.mp3"
+        },
+        {
+            "serie": "Advento (2021)",
+            "titulo": "Advento: O Sol da Justiça",
+            "episodio": 3,
+            "textoBase": "Malaquias 4:2-3",
+            "pregador": "Rafael Santos",
+            "data": "2021-12-19",
+            "audio": "https://youtu.be/Xfq-3ki0Fn8"
+        },
+        {
+            "serie": "Advento (2021)",
+            "titulo": "Advento: A expectativa do menino Messias",
+            "episodio": 2,
+            "textoBase": "Isaías 9:1-7",
+            "pregador": "Rafael Santos",
+            "data": "2021-12-05",
+            "audio": "https://youtu.be/B83sG-T3ASA"
+        },
+        {
+            "serie": "Advento (2021)",
+            "titulo": "Advento: A Profecia do Arauto do Messias",
+            "episodio": 1,
+            "textoBase": "Isaías 40:3-5",
+            "pregador": "Jeff Dowdy",
+            "data": "2021-11-28",
+            "audio": "https://youtu.be/Y7z19XS3cdI"
+        },
+        {
+            "serie": "O que significa ser um pacificador?",
+            "titulo": "O que significa ser um pacificador?",
+            "episodio": 1,
+            "textoBase": "Mateus 5:9",
+            "pregador": "Rafael Santos",
+            "data": "2021-10-31",
+            "audio": "https://youtu.be/g8DJn6BCBsQ"
+        },
+        {
+            "serie": "A Paixão de Cristo",
+            "titulo": "A Paixão de Cristo: A Ressureição",
+            "episodio": 3,
+            "textoBase": null,
+            "pregador": "Rafael Santos",
+            "data": "2021-04-04",
+            "audio": "https://youtu.be/dCmmdX7O4xU"
+        },
+        {
+            "serie": "A Paixão de Cristo",
+            "titulo": "A Paixão de Cristo: A Crucificação",
+            "episodio": 2,
+            "textoBase": null,
+            "pregador": "Thiago Junqueira",
+            "data": "2021-03-28",
+            "audio": "https://youtu.be/rCo3totc8os"
+        },
+        {
+            "serie": "A Paixão de Cristo",
+            "titulo": "A Paixão de Cristo: Ceia e Getsêmani",
+            "episodio": 1,
+            "textoBase": null,
+            "pregador": "Jon Elam",
+            "data": "2021-03-21",
+            "audio": "https://www.youtube.com/embed/CbjoA8LE9i8?start=853"
+        },
+        {
+            "serie": "O Nascimento de Jesus",
+            "titulo": "O Nascimento de Jesus",
+            "episodio": 1,
+            "textoBase": null,
+            "pregador": "Rafael Santos",
+            "data": "2020-12-20",
+            "audio": "https://www.youtube.com/watch?v=sNt-CjE3-tY"
+        },
+        {
+            "serie": "Outras 2019-2021",
+            "titulo": "Culto de louvor e adoração",
+            "episodio": 9,
+            "textoBase": null,
+            "pregador": null,
+            "data": "2020-12-12",
+            "audio": "https://www.youtube.com/watch?v=DVPGdBCT0NM"
+        },
+        {
+            "serie": "Como amar os membros da igreja com opiniões políticas diferentes?",
+            "titulo": "Como amar os membros da igreja com opiniões políticas diferentes?",
+            "episodio": 1,
+            "textoBase": null,
+            "pregador": "Thiago Junqueira",
+            "data": "2020-11-01",
+            "audio": "https://www.youtube.com/watch?v=tuknLmUncsQ"
+        },
+        {
+            "serie": "O Desânimo",
+            "titulo": "O Desânimo",
+            "episodio": 1,
+            "textoBase": null,
+            "pregador": "Rafael Santos",
+            "data": "2020-09-06",
+            "audio": "https://www.youtube.com/watch?v=CsevoWCrtVY"
+        },
+        {
+            "serie": "O que Acontece quando Deus visita seu povo?",
+            "titulo": "O que Acontece quando Deus visita seu povo?",
+            "episodio": 1,
+            "textoBase": null,
+            "pregador": "Rafael Santos",
+            "data": "2020-08-23",
+            "audio": "https://www.youtube.com/watch?v=1vqdM1q477g"
+        },
+        {
+            "serie": "O Desânimo e a busca do primeiro amor",
+            "titulo": "O Desânimo e a busca do primeiro amor",
+            "episodio": 1,
+            "textoBase": null,
+            "pregador": "Rafael Santos",
+            "data": "2020-08-16",
+            "audio": "https://www.youtube.com/watch?v=z27wMHYlcT4"
+        },
+        {
+            "serie": "Primeiro culto do ano: 20/20",
+            "titulo": "Primeiro culto do ano: 20/20",
+            "episodio": 1,
+            "textoBase": null,
+            "pregador": "Presbíteros da Comunidade Horizonte",
+            "data": "2020-01-12",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e751e8069ee64004287187b/1579663258765/200112_001.mp3/original/200112_001.mp3"
+        },
+        {
+            "serie": "A Palavra e a Oração",
+            "titulo": "Chamando o Senhor através do Pai Nosso",
+            "episodio": 2,
+            "textoBase": "Mateus 6:9-13",
+            "pregador": "Daniel Souza",
+            "data": "2019-01-27",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e751e8069ee640042871880/1584635162811/culto%2BCH%2B20181118%2B%28online-audio-converter.com%29%2B%281%29%2B%281%29.mp3/original/culto%2BCH%2B20181118%2B%28online-audio-converter.com%29%2B%281%29%2B%281%29.mp3"
+        },
+        {
+            "serie": "A Palavra e a Oração",
+            "titulo": "O Poder e o Propósito da Palavra",
+            "episodio": 1,
+            "textoBase": "Isaías 55",
+            "pregador": "Daniel Souza",
+            "data": "2019-01-20",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e751e8069ee640042871882/1584635565075/190120_001.mp3/original/190120_001.mp3"
+        },
+        {
+            "serie": "Outras 2019-2021",
+            "titulo": "A Identidade do Cristão",
+            "episodio": 1,
+            "textoBase": "Filipenses 2:5-11",
+            "pregador": "Rafael Santos",
+            "data": "2019-12-15",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e751e8069ee640042871887/1579663258768/15-12-19+%281%29.mp3/original/15-12-19+%281%29.mp3"
+        },
+        {
+            "serie": "Outras 2019-2021",
+            "titulo": "O verdadeiro significado da Santa Ceia",
+            "episodio": 1,
+            "textoBase": "1 Coríntios 11:26-34",
+            "pregador": "Tiago Rossi",
+            "data": "2019-03-31",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e751e8069ee640042871889/1579663258771/190331_001.mp3/original/190331_001.mp3"
+        },
+        {
+            "serie": "Outras 2019-2021",
+            "titulo": "Paulo e as pressões da sociedade",
+            "episodio": 1,
+            "textoBase": "2 Coríntios 10",
+            "pregador": "Pr. Rafael Santos",
+            "data": "2019-01-13",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e751e8069ee64004287188b/1579663258774/190113_001.mp3/original/190113_001.mp3"
+        },
+        {
+            "serie": "Outras 2019-2021",
+            "titulo": "Sua misericórdia dura para sempre",
+            "episodio": 1,
+            "textoBase": "Salmo 136",
+            "pregador": "Pr. Jhonatan Rodrigues",
+            "data": "2019-01-06",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e751e8069ee64004287188d/1579663258777/190106_001.mp3/original/190106_001.mp3"
+        },
+        {
+            "serie": "O Evangelho na Vida",
+            "titulo": "Cidade, o mundo em que vivemos",
+            "episodio": 1,
+            "textoBase": null,
+            "pregador": "Rafael Santos",
+            "data": "2020-01-19",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e2adbadf0a5822b10be7794/1588102448237/19_01_2020.MP3/original/19_01_2020.MP3"
+        },
+        {
+            "serie": "O Evangelho na Vida",
+            "titulo": "Coração, três modos de viver",
+            "episodio": 2,
+            "textoBase": null,
+            "pregador": "Rafael Santos",
+            "data": "2020-01-26",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e2edbb1b5f4e50703fbd2c0/1588102448234/200126_001.MP3/original/200126_001.MP3"
+        },
+        {
+            "serie": "O Evangelho na Vida",
+            "titulo": "Idolatria, o pecado por trás do pecado",
+            "episodio": 3,
+            "textoBase": null,
+            "pregador": "Rafael Santos",
+            "data": "2020-02-02",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e398828d0acb131d73cde72/1588102448231/200202_001.mp3/original/200202_001.mp3"
+        },
+        {
+            "serie": "O Evangelho na Vida",
+            "titulo": "Comunidade, o contexto para mudança",
+            "episodio": 4,
+            "textoBase": null,
+            "pregador": "Rafael Santos",
+            "data": "2020-02-09",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e42bcd0c14e5326b8ffe029/1588102448227/200209_001+%28mp3cut.net%29.mp3/original/200209_001+%28mp3cut.net%29.mp3"
+        },
+        {
+            "serie": "O Evangelho na Vida",
+            "titulo": "Testemunho, uma cidade alternativa",
+            "episodio": 5,
+            "textoBase": null,
+            "pregador": "Rafael Santos",
+            "data": "2020-02-16",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e4db23b20c08f54b9506f0e/1588102448224/200216_001.MP3/original/200216_001.MP3"
+        },
+        {
+            "serie": "O Evangelho na Vida",
+            "titulo": "Trabalho, cultivando o jardim",
+            "episodio": 6,
+            "textoBase": null,
+            "pregador": "Rafael Santos",
+            "data": "2020-03-01",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e5e76a0c3867f2286c738b7/1588102448221/200301_001.mp3/original/200301_001.mp3"
+        },
+        {
+            "serie": "O Evangelho na Vida",
+            "titulo": "Justiça, um povo para os outros",
+            "episodio": 7,
+            "textoBase": null,
+            "pregador": "Rafael Santos",
+            "data": "2020-03-08",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e664151fdb58068249a4744/1588102448218/200308_001.mp3/original/200308_001.mp3"
+        },
+        {
+            "serie": "O Evangelho na Vida",
+            "titulo": "Eternidade, o mundo que virá",
+            "episodio": 8,
+            "textoBase": null,
+            "pregador": "Rafael Santos",
+            "data": "2020-03-15",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e70e1cd11a55a7c9557d57c/1588102448215/200315_001.mp3/original/200315_001.mp3"
+        },
+        {
+            "serie": "Os 5 Solas",
+            "titulo": "Soli Deo Glória",
+            "episodio": 5,
+            "textoBase": null,
+            "pregador": "Thyago Salvino",
+            "data": "2022-10-30",
+            "audio": "https://www.youtube.com/watch?v=k7i9rUjZheI"
+        },
+        {
+            "serie": "Os 5 Solas",
+            "titulo": "Sola Fide",
+            "episodio": 4,
+            "textoBase": null,
+            "pregador": "Jeff Dowdy",
+            "data": "2022-10-23",
+            "audio": "https://www.youtube.com/watch?v=Qv2OmaTXGM8"
+        },
+        {
+            "serie": "Os 5 Solas",
+            "titulo": "Sola gratia",
+            "episodio": 3,
+            "textoBase": null,
+            "pregador": "Rafael Santos",
+            "data": "2022-10-16",
+            "audio": "https://www.youtube.com/watch?v=Hu2iwPsaf8k"
+        },
+        {
+            "serie": "Os 5 Solas",
+            "titulo": "Solus Cristus",
+            "episodio": 2,
+            "textoBase": null,
+            "pregador": "Rafael Santos",
+            "data": "2022-10-09",
+            "audio": "https://www.youtube.com/watch?v=LO550avzOzc"
+        },
+        {
+            "serie": "Os 5 Solas",
+            "titulo": "Sola Scriptura",
+            "episodio": 1,
+            "textoBase": null,
+            "pregador": "Thyago Salvino",
+            "data": "2022-10-02",
+            "audio": "https://www.youtube.com/watch?v=Dj6mFh3D3-A"
+        },
+        {
+            "serie": "Valores da CH",
+            "titulo": "Discipulado como Espinha Dorsal",
+            "episodio": 1,
+            "textoBase": null,
+            "pregador": "Jon Elam",
+            "data": "2022-07-03",
+            "audio": "https://open.spotify.com/embed/episode/2DNUNb8uhpegFW6uKB3Xad"
+        },
+        {
+            "serie": "Valores da CH",
+            "titulo": "igreja urbana",
+            "episodio": 2,
+            "textoBase": null,
+            "pregador": "Jeff Dowdy",
+            "data": "2022-07-10",
+            "audio": "https://open.spotify.com/embed/episode/0ZRU0EWZdlrr2wil1S4ucT"
+        },
+        {
+            "serie": " Valores da CH",
+            "titulo": "igreja reformada",
+            "episodio": 3,
+            "textoBase": null,
+            "pregador": "Rafael Santos",
+            "data": "2022-07-17",
+            "audio": "https://open.spotify.com/embed/episode/6oln7Hmt7LO58IaFmEWfLX"
+        },
+        {
+            "serie": "Valores da CH",
+            "titulo": "Igreja Baseada na Palavra",
+            "episodio": 4,
+            "textoBase": null,
+            "pregador": "Thyago Salvino",
+            "data": "2022-07-24",
+            "audio": "https://open.spotify.com/embed/episode/1vnmTkSSr6YceOQYhpn2es"
+        },
+        {
+            "serie": "Valores da CH",
+            "titulo": "igreja Hospitaleira",
+            "episodio": 5,
+            "textoBase": null,
+            "pregador": "Pedro Albuquerque",
+            "data": "2022-07-31",
+            "audio": "https://open.spotify.com/embed/episode/7waKan5rj1gYmcBr9jVtQ8"
+        },
+        {
+            "serie": "Hebreus",
+            "titulo": "Parte 41 - O Deus que Equipa (Hb 13:20-25)",
+            "episodio": 41,
+            "textoBase": "Hebreus 13:20-25",
+            "pregador": "Daniel Souza",
+            "data": "2016",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e878d097741e6046d2f4d7d/1482792443538/Pregacao+Natal.mp3/original/Pregacao+Natal.mp3"
+        },
+        {
+            "serie": "Hebreus",
+            "titulo": "Parte 40 - Lembrem-se dos Seus Líderes (Hb 13:7-19)",
+            "episodio": 40,
+            "textoBase": "Hebreus 13:7-19",
+            "pregador": "Daniel Souza",
+            "data": "2016",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e878d097741e6046d2f4d80/1482086074216/13+7_19.mp3/original/13+7_19.mp3"
+        },
+        {
+            "serie": "Hebreus",
+            "titulo": "Parte 39 - O Amor Fraternal (Hb 13:1-6)",
+            "episodio": 39,
+            "textoBase": "Hebreus 13:1-6",
+            "pregador": "Daniel Souza",
+            "data": "2016",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e878d097741e6046d2f4d82/1481500263034/161211_001.MP3/original/161211_001.MP3"
+        },
+        {
+            "serie": "Hebreus",
+            "titulo": "Parte 38 - Os Dois Montes do Senhor (Hb 12:18-29)",
+            "episodio": 38,
+            "textoBase": "Hebreus 12:18-29",
+            "pregador": "Daniel Souza",
+            "data": "2016",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e878d097741e6046d2f4d84/1480876509535/Hb12_18-29.mp3/original/Hb12_18-29.mp3"
+        },
+        {
+            "serie": "Hebreus",
+            "titulo": "Parte 37 - Esforçando-nos pela Santidade (Hb 12:12-17)",
+            "episodio": 37,
+            "textoBase": "Hebreus 12:12-17",
+            "pregador": "Daniel Souza",
+            "data": "2016",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e878d097741e6046d2f4d87/1480356439491/161127_001.MP3/original/161127_001.MP3"
+        },
+        {
+            "serie": "Hebreus",
+            "titulo": "Parte 36 - O Pecado e a Boa Disciplina de Deus (Hb 12:3-11)",
+            "episodio": 36,
+            "textoBase": "Hebreus 12:3-11",
+            "pregador": "Daniel Souza",
+            "data": "2016",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e878d097741e6046d2f4d89/1479658307729/20+de+11+2016.mp3/original/20+de+11+2016.mp3"
+        },
+        {
+            "serie": "Hebreus",
+            "titulo": "Parte 35 - Testemunhas da Graça (Hb 12:1-3)",
+            "episodio": 35,
+            "textoBase": "Hebreus 12:1-3",
+            "pregador": "Alan Andrioni",
+            "data": "2016",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e878d097741e6046d2f4d8b/1478456326437/161106_001.MP3/original/161106_001.MP3"
+        },
+        {
+            "serie": "Hebreus",
+            "titulo": "Parte 34 - Somente a Fé (Hb 11:32-40)",
+            "episodio": 34,
+            "textoBase": "Hebreus 11:32-40",
+            "pregador": "Daniel Souza",
+            "data": "2016",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e878d097741e6046d2f4d8d/1477914743762/Hb11_32-40.mp3/original/Hb11_32-40.mp3"
+        },
+        {
+            "serie": "Hebreus",
+            "titulo": "Parte 33 - A Liberdade de uma Vida de Fé (Hb 11:20-31)",
+            "episodio": 33,
+            "textoBase": "Hebreus 11:20-31",
+            "pregador": "Daniel Souza",
+            "data": "2016",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e878d097741e6046d2f4d90/1477250253792/Hb11_20-31.mp3/original/Hb11_20-31.mp3"
+        },
+        {
+            "serie": "Hebreus",
+            "titulo": "Parte 32 - Abraão: A Fé em Ação (Hb 11:8-19)",
+            "episodio": 32,
+            "textoBase": "Hebreus 11:8-19",
+            "pregador": "Daniel Souza",
+            "data": "2016",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e878d097741e6046d2f4d92/1476633974150/Hb11_8-19.mp3/original/Hb11_8-19.mp3"
+        },
+        {
+            "serie": "Hebreus",
+            "titulo": "Parte 31 - Como Agradar a Deus (Hb 11:4-7)",
+            "episodio": 31,
+            "textoBase": "Hebreus 11:4-7",
+            "pregador": "Daniel Souza",
+            "data": "2016",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e878d097741e6046d2f4d94/1476043562807/Hb11_4-7.mp3/original/Hb11_4-7.mp3"
+        },
+        {
+            "serie": "Hebreus",
+            "titulo": "Parte 30 - O Que é a Fé? (Hb 11:1-3)",
+            "episodio": 30,
+            "textoBase": "Hebreus 11:1-3",
+            "pregador": "Daniel Souza",
+            "data": "2016",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e878d097741e6046d2f4d97/1475437682439/161003_001.MP3/original/161003_001.MP3"
+        },
+        {
+            "serie": "Hebreus",
+            "titulo": "Parte 29 - Um Apelo à Perseverança (Hb 10:32-39)",
+            "episodio": 29,
+            "textoBase": "Hebreus 10:32-39",
+            "pregador": "Thiago Junqueira",
+            "data": "2016",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e878d097741e6046d2f4d99/1474900956445/160925_001.MP3/original/160925_001.MP3"
+        },
+        {
+            "serie": "Hebreus",
+            "titulo": "Parte 28 - Um Único Sacrifício (Hb 10:26-31)",
+            "episodio": 28,
+            "textoBase": "Hebreus 10:26-31",
+            "pregador": "Daniel Souza",
+            "data": "2016",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e878d097741e6046d2f4d9b/1474241690538/160918.mp3/original/160918.mp3"
+        },
+        {
+            "serie": "Hebreus",
+            "titulo": "Parte 27 - O Papel Vital da Igreja (Hb 10:19-25)",
+            "episodio": 27,
+            "textoBase": "Hebreus 10:19-25",
+            "pregador": "Alan Andrioni",
+            "data": "2016",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e878d097741e6046d2f4d9d/1473074184966/HebAlanAndrioni.m4a/original/HebAlanAndrioni.m4a"
+        },
+        {
+            "serie": "Hebreus",
+            "titulo": "Parte 26 - Está Consumado (Hb 10:1-18)",
+            "episodio": 26,
+            "textoBase": "Hebreus 10:1-18",
+            "pregador": "Daniel Souza",
+            "data": "2016",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e878d097741e6046d2f4da2/1472409094154/160828_002.m4a/original/160828_002.m4a"
+        },
+        {
+            "serie": "Hebreus",
+            "titulo": "Parte 25 - O Sangue e a Herança de Cristo (Hb 9:15-28)",
+            "episodio": 25,
+            "textoBase": "Hebreus 9:15-28",
+            "pregador": "Daniel Souza",
+            "data": "2016",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e878d097741e6046d2f4da4/1471823389736/160821_001.m4a/original/160821_001.m4a"
+        },
+        {
+            "serie": "Hebreus",
+            "titulo": "Parte 24 - A Purificação da Consciência (Hb 9:1-14)",
+            "episodio": 24,
+            "textoBase": "Hebreus 9:1-14",
+            "pregador": "Daniel Souza",
+            "data": "2016",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e878d097741e6046d2f4da6/1471209327216/160814_001.m4a/original/160814_001.m4a"
+        },
+        {
+            "serie": "Hebreus",
+            "titulo": "Parte 23 - A Superioridade da Nova Aliança (Hb 8:1-13)",
+            "episodio": 23,
+            "textoBase": "Hebreus 8:1-13",
+            "pregador": "Daniel Souza",
+            "data": "2016",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e878d097741e6046d2f4da8/1470594197496/160807_001.m4a/original/160807_001.m4a"
+        },
+        {
+            "serie": "Hebreus",
+            "titulo": "Parte 21 - Atingindo a Perfeição (Hb 7:11-25)",
+            "episodio": 21,
+            "textoBase": "Hebreus 7:11-25",
+            "pregador": "Daniel Souza",
+            "data": "2016",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e878d097741e6046d2f4dab/1469443536706/160724_001.mp3/original/160724_001.mp3"
+        },
+        {
+            "serie": "Hebreus",
+            "titulo": "Parte 20 - Justificação Pela Fé (Gálatas 3:1-14)",
+            "episodio": 20,
+            "textoBase": "Gálatas 3:1-14",
+            "pregador": "Demps Dempsey",
+            "data": "2016",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e878d097741e6046d2f4dad/1468241411264/pregac%CC%A7a%CC%83o+11+de+julho.mp3/original/pregac%CC%A7a%CC%83o+11+de+julho.mp3"
+        },
+        {
+            "serie": "Hebreus",
+            "titulo": "Parte 19 - A Superioridade de Melquisedeque (Hb 7:1-10)",
+            "episodio": 19,
+            "textoBase": "Hebreus 7:1-10",
+            "pregador": "Daniel Souza",
+            "data": "2016",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e878d097741e6046d2f4daf/1467565225542/Heb7_1-10.mp3/original/Heb7_1-10.mp3"
+        },
+        {
+            "serie": "Hebreus",
+            "titulo": "Parte 18 - A Âncora da Nossa Alma (Hb 6:13-20)",
+            "episodio": 18,
+            "textoBase": "Hebreus 6:13-20",
+            "pregador": "Daniel Souza",
+            "data": "2016",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e878d097741e6046d2f4db1/1466971671328/160626_001.mp3/original/160626_001.mp3"
+        },
+        {
+            "serie": "Hebreus",
+            "titulo": "Parte 17 - A Plena Certeza da Esperança (Hb 6:9-12)",
+            "episodio": 17,
+            "textoBase": "Hebreus 6:9-12",
+            "pregador": "Daniel Souza",
+            "data": "2016",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e878d097741e6046d2f4db3/1466435517694/19062016.mp3/original/19062016.mp3"
+        },
+        {
+            "serie": "Hebreus",
+            "titulo": "Parte 16 - O Perigo de Rejeitar Jesus (Hb 6:1-8)",
+            "episodio": 16,
+            "textoBase": "Hebreus 6:1-8",
+            "pregador": "Daniel Souza",
+            "data": "2016",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e878d097741e6046d2f4db5/1465755660442/160612_001%5B1%5D.MP3/original/160612_001%5B1%5D.MP3"
+        },
+        {
+            "serie": "Hebreus",
+            "titulo": "Parte 15 - Aquele que tem ouvidos, ouça! (Hb 5:11-14)",
+            "episodio": 15,
+            "textoBase": "Hebreus 5:11-14",
+            "pregador": "Thiago Junqueira",
+            "data": "2016",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e878d097741e6046d2f4db9/1465222915156/160605+Pregac%CC%A7a%CC%83o.mp3/original/160605+Pregac%CC%A7a%CC%83o.mp3"
+        },
+        {
+            "serie": "Hebreus",
+            "titulo": "Parte 14 - Somos um Sacerdócio Real em Cristo (Hb 5:1-10)",
+            "episodio": 14,
+            "textoBase": "Hebreus 5:1-10",
+            "pregador": "Demps Dempsey",
+            "data": "2016",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e878d097741e6046d2f4dbc/1464624033115/160529_001%5B1%5D.MP3/original/160529_001%5B1%5D.MP3"
+        },
+        {
+            "serie": "Hebreus",
+            "titulo": "Parte 13 - Jesus: O Grande Sumo Sacerdote (Hb 4:14-16)",
+            "episodio": 13,
+            "textoBase": "Hebreus 4:14-16",
+            "pregador": "Daniel Souza",
+            "data": "2016",
+            "audio": null
+        },
+        {
+            "serie": "Hebreus",
+            "titulo": "Parte 12 - A Vida e o Poder da Palavra de Deus (Hb 4:12-13)",
+            "episodio": 12,
+            "textoBase": "Hebreus 4:12-13",
+            "pregador": "Daniel Souza",
+            "data": "2016",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e878d097741e6046d2f4dbe/1463366898077/160515_002%5B1%5D.MP3/original/160515_002%5B1%5D.MP3"
+        },
+        {
+            "serie": "Hebreus",
+            "titulo": "Parte 11 - O Esforço do Descanso (Hb 4:6-11)",
+            "episodio": 11,
+            "textoBase": "Hebreus 4:6-11",
+            "pregador": "Daniel Souza",
+            "data": "2016",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e879d1e71dd0330da6f41d2/1585946209888/evangelismo+160131.MP3/original/evangelismo+160131.MP3"
+        },
+        {
+            "serie": "Hebreus",
+            "titulo": "Parte 10 - Jesus é o Nosso Descanso (Hb 4:1-5)",
+            "episodio": 10,
+            "textoBase": "Hebreus 4:1-5",
+            "pregador": "Daniel Souza",
+            "data": "2016",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e878d097741e6046d2f4dc3/1462383572017/Hebreus+4_1-5.mp3/original/Hebreus+4_1-5.mp3"
+        },
+        {
+            "serie": "Hebreus",
+            "titulo": "Parte 9 - A Importância do Coração (Hb 3:15-19)",
+            "episodio": 9,
+            "textoBase": "Hebreus 3:15-19",
+            "pregador": "Demps Dempsey",
+            "data": "2016",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e878d097741e6046d2f4dc5/1460939816989/Hebreus+3_15-19.m4a/original/Hebreus+3_15-19.m4a"
+        },
+        {
+            "serie": "Hebreus",
+            "titulo": "Parte 8 - Perseverança através de Comunidade (Hb 3:7-14)",
+            "episodio": 8,
+            "textoBase": "Hebreus 3:7-14",
+            "pregador": "Daniel Souza",
+            "data": "2016",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e878d097741e6046d2f4dc7/1460336620943/Hebreus+3_7-14.m4a/original/Hebreus+3_7-14.m4a"
+        },
+        {
+            "serie": "Hebreus",
+            "titulo": "Parte 7 - Jesus é Superior a Moisés (Hb 3:1-6)",
+            "episodio": 7,
+            "textoBase": "Hebreus 3:1-6",
+            "pregador": "Daniel Souza",
+            "data": "2016",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e878d097741e6046d2f4dc9/1459725867689/Hebreus+3_1-6.MP3/original/Hebreus+3_1-6.MP3"
+        },
+        {
+            "serie": "Hebreus",
+            "titulo": "Parte 6 - Solidariedade e Triunfo de Cristo (Hb 2:10-18)",
+            "episodio": 6,
+            "textoBase": "Hebreus 2:10-18",
+            "pregador": "Daniel Souza",
+            "data": "2016",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e878d097741e6046d2f4dcb/1459113754024/Hebreus+2_10-18.m4a/original/Hebreus+2_10-18.m4a"
+        },
+        {
+            "serie": "Hebreus",
+            "titulo": "Parte 5 - Jesus: O Caminho à Honra e Glória (Hb 2:5-9)",
+            "episodio": 5,
+            "textoBase": "Hebreus 2:5-9",
+            "pregador": "Daniel Souza",
+            "data": "2016",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e878d097741e6046d2f4dcd/1458560704271/20032016.m4a/original/20032016.m4a"
+        },
+        {
+            "serie": "Hebreus",
+            "titulo": "Parte 4 - O Perigo do Afastamento (Hb 2:1-4)",
+            "episodio": 4,
+            "textoBase": "Hebreus 2:1-4",
+            "pregador": "Daniel Souza",
+            "data": "2016",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e878d097741e6046d2f4dcf/1457963956553/Untitled.m4a/original/Untitled.m4a"
+        },
+        {
+            "serie": "Hebreus",
+            "titulo": "Parte 3 - Jesus é Superior aos Anjos (Hb 1:4-14)",
+            "episodio": 3,
+            "textoBase": "Hebreus 1:4-14",
+            "pregador": "Daniel Souza",
+            "data": "2016",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e878d097741e6046d2f4dd1/1457357815466/Untitled.m4a/original/Untitled.m4a"
+        },
+        {
+            "serie": "Hebreus",
+            "titulo": "Parte 2 - A Supremacia de Cristo (Hb 1:2b-3)",
+            "episodio": 2,
+            "textoBase": "Hebreus 1:2b-3",
+            "pregador": "Daniel Souza",
+            "data": "2016",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e878d097741e6046d2f4dd3/1456755415621/Hebreus+2.m4a/original/Hebreus+2.m4a"
+        },
+        {
+            "serie": "Hebreus",
+            "titulo": "Parte 1 - O Deus Que Fala (Hb 1:1-2a)",
+            "episodio": 1,
+            "textoBase": "Hebreus 1:1-2a",
+            "pregador": "Daniel Souza",
+            "data": "2016",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e878d097741e6046d2f4dd5/1456231800319/hebrews+1.mp3/original/hebrews+1.mp3"
+        },
+        {
+            "serie": "Retiro 2016",
+            "titulo": "Sessão 1 - O Reino de Deus e a Comunidade de Cristo",
+            "episodio": 1,
+            "textoBase": null,
+            "pregador": "Daniel Souza",
+            "data": "2016",
+            "audio": null
+        },
+        {
+            "serie": "Retiro 2016",
+            "titulo": "Sessão 2 - A Comunidade de Cristo, Suas Ordenanças e Sua Liderança",
+            "episodio": 2,
+            "textoBase": null,
+            "pregador": "Daniel Souza",
+            "data": "2016",
+            "audio": null
+        },
+        {
+            "serie": "Disciplinas Espirituais",
+            "titulo": "Evangelismo",
+            "episodio": 4,
+            "textoBase": null,
+            "pregador": "Demps Dempsey",
+            "data": "2016-01-31",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e879d1e71dd0330da6f41d2/1585946209888/evangelismo+160131.MP3/original/evangelismo+160131.MP3"
+        },
+        {
+            "serie": "Disciplinas Espirituais",
+            "titulo": "Adoração",
+            "episodio": 3,
+            "textoBase": null,
+            "pregador": "Demps Dempsey",
+            "data": "2016-01-24",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e879c1db7bb3043c29e6358/1585945848567/adorac%CC%A7a%CC%83o+160117.MP3/original/adorac%CC%A7a%CC%83o+160117.MP3"
+        },
+        {
+            "serie": "Disciplinas Espirituais",
+            "titulo": "Oração",
+            "episodio": 2,
+            "textoBase": null,
+            "pregador": "Daniel Souza",
+            "data": "2016-01-17",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e879afb4a92d17535ef6466/1585945614763/orac%CC%A7a%CC%83o+160110.MP3/original/orac%CC%A7a%CC%83o+160110.MP3"
+        },
+        {
+            "serie": "Disciplinas Espirituais",
+            "titulo": "A Palavra",
+            "episodio": 1,
+            "textoBase": null,
+            "pregador": "Daniel Souza",
+            "data": "2016-01-10",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e8799485e6181769c7b4afd/1585945104768/a%2Bpalavra+160110.MP3/original/a%2Bpalavra+160110.MP3"
+        },
+        {
+            "serie": "Tiago - Uma Fé Viva",
+            "titulo": "Parte 15 - O Poder do \"uns aos outros\" - Tiago 5: 16-20",
+            "episodio": 15,
+            "textoBase": "Tiago 5: 16-20",
+            "pregador": "Daniel Souza",
+            "data": "2019-07-21",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5d34e8ddd93a8c0001cdafb5/1563749081939/190720_001+%28mp3cut.net%29.mp3/original/190720_001+%28mp3cut.net%29.mp3"
+        },
+        {
+            "serie": "Tiago - Uma Fé Viva",
+            "titulo": "Parte 14 - O Poder da Oração - Tiago 5: 12-15",
+            "episodio": 14,
+            "textoBase": "Tiago 5: 12-15",
+            "pregador": "Daniel Souza",
+            "data": "2019-07-14",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5d2c95915cd5cf00012744b0/1563203391189/190713_001.mp3/original/190713_001.mp3"
+        },
+        {
+            "serie": "Tiago - Uma Fé Viva",
+            "titulo": "Parte 13 - Uma Fé Viva (Tiago 5: 7- 11)",
+            "episodio": 13,
+            "textoBase": "Tiago 5: 7- 11",
+            "pregador": "Thiago Junqueira",
+            "data": "2019-06-30",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5d1b8a7102b71c0001e5888b/1562086415118/190629_002+%281%29.mp3/original/190629_002+%281%29.mp3"
+        },
+        {
+            "serie": "Tiago - Uma Fé Viva",
+            "titulo": "Parte 13 - Vivendo para um tesouro maior (Tiago 5:1-6)",
+            "episodio": 13,
+            "textoBase": "Tiago 5:1-6",
+            "pregador": "Daniel Souza",
+            "data": "2019-06-23",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5d10c90895d2ac0001924fab/1561381470122/190622_001.mp3/original/190622_001.mp3"
+        },
+        {
+            "serie": "Tiago - Uma Fé Viva",
+            "titulo": "Parte 12 - Uma Fé Viva (Tiago 4:13-17)",
+            "episodio": 12,
+            "textoBase": "Tiago 4:13-17",
+            "pregador": "Raul Pacheco",
+            "data": "2019-06-16",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5d06e1f7d8314500018a9478/1560732368551/190616_001.mp3/original/190616_001.mp3"
+        },
+        {
+            "serie": "Tiago - Uma Fé Viva",
+            "titulo": "Parte 10 - A raiz de guerras e contendas (Tiago 4:1-5)",
+            "episodio": 10,
+            "textoBase": "Tiago 4:1-5",
+            "pregador": "Daniel Souza",
+            "data": "2019-06-02",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5cf526dba9530b000126c350/1559570812853/AUDIO-2019-06-03-09-33-09+%28online-audio-converter.com%29+%281%29+%281%29.mp3/original/AUDIO-2019-06-03-09-33-09+%28online-audio-converter.com%29+%281%29+%281%29.mp3"
+        },
+        {
+            "serie": "Tiago - Uma Fé Viva",
+            "titulo": "Parte 9 - O Domínio sobre a Língua (Tiago 3:1-12)",
+            "episodio": 9,
+            "textoBase": "Tiago 3:1-12",
+            "pregador": "Rafael Santos",
+            "data": "2019-05-19",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5ce295ecb6e19700014438ea/1558353966037/190518_001.mp3/original/190518_001.mp3"
+        },
+        {
+            "serie": "Tiago - Uma Fé Viva",
+            "titulo": "Parte 8 - A Fé que atua (Tiago 2: 14-26)",
+            "episodio": 8,
+            "textoBase": "Tiago 2: 14-26",
+            "pregador": "Daniel Souza",
+            "data": "2019-05-12",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5cd8c6bde79c70f3242a4bf9/1557711027012/190511_001+%28mp3cut.net%29.mp3/original/190511_001+%28mp3cut.net%29.mp3"
+        },
+        {
+            "serie": "Tiago - Uma Fé Viva",
+            "titulo": "Parte 7 - A misericórdia triunfa sobre o juízo (Tiago 2: 1-13)",
+            "episodio": 7,
+            "textoBase": "Tiago 2: 1-13",
+            "pregador": "Daniel Souza",
+            "data": "2019-05-05",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5cd0352ba4222f983e6be976/1557149270009/190505_001.mp3/original/190505_001.mp3"
+        },
+        {
+            "serie": "Tiago - Uma Fé Viva",
+            "titulo": "Parte 6 - Sejam praticantes da palavra (Tiago 1:22-27)",
+            "episodio": 6,
+            "textoBase": "Tiago 1:22-27",
+            "pregador": "Daniel Souza",
+            "data": "2019-04-21",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5cbcc19db208fc1c56f12833/1555874555659/190421_001.MP3/original/190421_001.MP3"
+        },
+        {
+            "serie": "Tiago - Uma Fé Viva",
+            "titulo": "Parte 5 - Sejam ouvintes da palavra (Tiago 1: 19-21)",
+            "episodio": 5,
+            "textoBase": "Tiago 1: 19-21",
+            "pregador": "Daniel Souza",
+            "data": "2019-04-14",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5cb3eaf4ee6eb001468d3a86/1555295414712/190414_001+%28mp3cut.net%29.mp3/original/190414_001+%28mp3cut.net%29.mp3"
+        },
+        {
+            "serie": "Tiago - Uma Fé Viva",
+            "titulo": "Parte 4 - De onde vêm as tentações? (Tiago 1:13-18)",
+            "episodio": 4,
+            "textoBase": "Tiago 1:13-18",
+            "pregador": "Daniel Souza",
+            "data": "2019-04-07",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5caa9eec71c10b8e30cba391/1554686106201/190407_001.mp3/original/190407_001.mp3"
+        },
+        {
+            "serie": "Tiago - Uma Fé Viva",
+            "titulo": "Parte 3 - Nem Pobreza nem Riqueza (Tiago 1:9-12 ) ",
+            "episodio": 3,
+            "textoBase": "Tiago 1:9-12",
+            "pregador": "Daniel Souza",
+            "data": "2019-03-24",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5c97a7ec71c10b6eca321b3a/1553443107169/190324_001.mp3/original/190324_001.mp3"
+        },
+        {
+            "serie": "Tiago - Uma Fé Viva",
+            "titulo": "Parte 2 - Buscando a Sabedoria de Deus (Tiago1:5-8)",
+            "episodio": 2,
+            "textoBase": "Tiago1:5-8",
+            "pregador": "Rafael Santos",
+            "data": "2019-03-17",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5c8fe313eb39312201a07026/1552933751655/190317_003+%281%29.mp3/original/190317_003+%281%29.mp3"
+        },
+        {
+            "serie": "Tiago - Uma Fé Viva",
+            "titulo": "Parte 1 - Encontrando alegria nas provações (Tiago 1:1-4 ) ",
+            "episodio": 1,
+            "textoBase": "Tiago 1:1-4",
+            "pregador": "Daniel Souza",
+            "data": "2019-03-10",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5c85a0ca9140b78afbe2727b/1552261551718/190310_001+%28mp3cut.net%29.mp3/original/190310_001+%28mp3cut.net%29.mp3"
+        },
+        {
+            "serie": "Tamo Junto Para Sempre",
+            "titulo": "Parte 1 - Introdução",
+            "episodio": 1,
+            "textoBase": null,
+            "pregador": "Demps Dempsey",
+            "data": null,
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e88af3fd84e09477ed4aae3/1456234156747/Introduc%CC%A7a%CC%83o.mp3/original/Introduc%CC%A7a%CC%83o.mp3"
+        },
+        {
+            "serie": "Tamo Junto Para Sempre",
+            "titulo": "Parte 2 - Homens e Mulheres",
+            "episodio": 2,
+            "textoBase": null,
+            "pregador": "Demps Dempsey",
+            "data": null,
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e88af3fd84e09477ed4aae5/1456238107524/Homens+e+Mulheres.mp3/original/Homens+e+Mulheres.mp3"
+        },
+        {
+            "serie": "Tamo Junto Para Sempre",
+            "titulo": "Parte 3 - Comunicação e Conflito",
+            "episodio": 3,
+            "textoBase": null,
+            "pregador": "Daniel Souza",
+            "data": null,
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e88af3fd84e09477ed4aae7/1456238504229/Comunicac%CC%A7a%CC%83o+e+Conflito.mp3/original/Comunicac%CC%A7a%CC%83o+e+Conflito.mp3"
+        },
+        {
+            "serie": "Tamo Junto Para Sempre",
+            "titulo": "Parte 4 - Sexo",
+            "episodio": 4,
+            "textoBase": null,
+            "pregador": "Demps Dempsey",
+            "data": null,
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e88af3fd84e09477ed4aae9/1456238942957/Sexo.mp3/original/Sexo.mp3"
+        },
+        {
+            "serie": "Tamo Junto Para Sempre",
+            "titulo": "Parte 5 - Sogros",
+            "episodio": 5,
+            "textoBase": null,
+            "pregador": "Demps Dempsey",
+            "data": null,
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e88af3fd84e09477ed4aaeb/1456239325829/Sogros.mp3/original/Sogros.mp3"
+        },
+        {
+            "serie": "Tamo Junto Para Sempre",
+            "titulo": "Parte 6 - Filhos",
+            "episodio": 6,
+            "textoBase": null,
+            "pregador": "Demps Dempsey",
+            "data": null,
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e88af3fd84e09477ed4aaed/1456239669183/Filhos.mp3/original/Filhos.mp3"
+        },
+        {
+            "serie": "Retiro 2018",
+            "titulo": "Pregação / Domingo de manhã",
+            "episodio": 3,
+            "textoBase": null,
+            "pregador": "Daniel Souza",
+            "data": "2018",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e88af3fd84e09477ed4aaed/1456239669183/Filhos.mp3/original/Filhos.mp3"
+        },
+        {
+            "serie": "Retiro 2018",
+            "titulo": "Pregação / Sábado à noite",
+            "episodio": 2,
+            "textoBase": null,
+            "pregador": "Demps Dempsey",
+            "data": "2018",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e88af3fd84e09477ed4aaed/1456239669183/Filhos.mp3/original/Filhos.mp3"
+        },
+        {
+            "serie": "Retiro 2018",
+            "titulo": "Pregação / Sábado de manhã",
+            "episodio": 1,
+            "textoBase": null,
+            "pregador": "Daniel Souza",
+            "data": "2018",
+            "audio": "https://static1.squarespace.com/static/56c33f869f72661201297645/t/5e88af3fd84e09477ed4aaed/1456239669183/Filhos.mp3/original/Filhos.mp3"
         }
     ]
 }
